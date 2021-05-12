@@ -1,5 +1,8 @@
 This is an example of a read me file.
+<<<<<<< HEAD
 
 This is a branch of readme to see how commits work.
 
 Here is a third round of changes I'm making on my desktop.
+=======
+>>>>>>> parent of 288fb2c (Update README)
