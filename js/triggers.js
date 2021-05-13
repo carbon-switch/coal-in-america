@@ -2,9 +2,9 @@
 function triggerMap() {
 
   enterView({
-  	selector: '.bar-outer',
+  	selector: '#map-wrapper',
   	enter: function(el) {
-  		//enter something here
+  		console.log("hi")
     },
     offset: 0.4,
     once: true,

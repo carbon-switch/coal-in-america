@@ -1,0 +1,680 @@
+﻿Year,MSHA_ID,mine_name,mine_type,mstafips,state,county,mctyfips,lat,lon,production
+2018,4801353,North Antelope Rochelle Mine,Surface,56,Wyoming,Campbell,5,43.714923,-105.183188,98315794
+2018,4800977,Black Thunder,Surface,56,Wyoming,Campbell,5,42.693611,-105.266667,71134606
+2018,4801337,Antelope Coal Mine,Surface,56,Wyoming,Converse,9,43.495642,-105.161619,23155741
+2018,4800732,Belle Ayr Mine,Surface,56,Wyoming,Campbell,5,44.1,-105.383333,18467405
+2018,4801078,Eagle Butte Mine,Surface,56,Wyoming,Campbell,5,44.516667,-105.416667,17055796
+2018,1103189,Sugar Camp Mine,Underground,17,Illinois,Franklin,55,38.026944,-88.762222,14460951
+2018,3200595,Freedom Mine,Surface,38,North Dakota,Mercer,57,47.5,-101.233889,14183313
+2018,2401457,Spring Creek Coal Company,Surface,30,Montana,Big Horn,3,45.358333,-106.750278,13768055
+2018,4801200,Buckskin Mine,Surface,56,Wyoming,Campbell,5,44.433611,-105.528611,13508689
+2018,3607230,Bailey Mine,Underground,42,Pennsylvania,Greene,59,39.919627,-80.47262,12735390
+2018,4800992,Cordero Rojo Mine,Surface,56,Wyoming,Campbell,5,44.066667,-105.183333,12609413
+2018,4601437,Marshall County Mine,Underground,54,West Virginia,Marshall,51,39.478299,-80.486391,11433840
+2018,4801034,Caballo Mine,Surface,56,Wyoming,Campbell,5,44.123394,-105.33749,11333467
+2018,3607416,Enlow Fork Mine,Underground,42,Pennsylvania,Washington,125,40.074651,-80.346103,9876324
+2018,1519374,River View Mine,Underground,21,Kentucky,Union,225,37.743055,-87.888333,9753472
+2018,4800993,Rawhide Mine,Surface,56,Wyoming,Campbell,5,44.21,-105.32,9504750
+2018,4104586,Kosse Strip,Surface,48,Texas,Limestone,293,31.2825,-96.495277,8683043
+2018,2401747,Rosebud Mine & Crusher/Conveyo,Surface,30,Montana,Rosebud,87,45.879153,-106.6517,8392830
+2018,3200491,Falkirk Mine,Surface,38,North Dakota,Mclean,55,47.127145,-101.69132,8231213
+2018,4801215,Coal Creek Mine,Surface,56,Wyoming,Campbell,5,43.971944,-105.2825,7987838
+2018,2401950,Bull Mountains Mine No 1,Underground,30,Montana,Musselshell,65,46.446959,-108.705589,7566480
+2018,4601318,Harrison County Mine,Underground,54,West Virginia,Marion,49,39.402778,-80.3625,7215143
+2018,1202388,Gibson South,Underground,18,Indiana,Gibson,51,38.341636,-87.55882,6996941
+2018,1103141,Mach #1 Mine,Underground,17,Illinois,Williamson,199,37.838889,-88.831111,6887728
+2018,1202422,Bear Run Mine,Surface,18,Indiana,Sullivan,153,38.51667,-87.265495,6885899
+2018,4608864,Tunnel Ridge Mine,Underground,54,West Virginia,Ohio,69,40.135271,-80.982002,6807214
+2018,201195,Kayenta Mine,Surface,4,Arizona,Navajo,17,36.5,-110.723055,6550417
+2018,4601436,Ohio County Mine,Underground,54,West Virginia,Marshall,51,40.202273,-80.726637,6509414
+2018,3605018,Cumberland Mine,Underground,42,Pennsylvania,Greene,59,39.795583,-79.972685,6422579
+2018,1103193,Lively Grove Mine,Underground,17,Illinois,Washington,189,38.283056,-89.654722,6331873
+2018,4801429,Dry Fork Mine,Surface,56,Wyoming,Campbell,5,44.650278,-105.734722,6304022
+2018,1103203,Mine No. 1,Underground,17,Illinois,Hamilton,65,38.171111,-88.601667,6298997
+2018,4601433,Marion County Mine,Underground,54,West Virginia,Marion,49,39.608333,-80.291389,6133349
+2018,101401,No 7 Mine,Underground,1,Alabama,Jefferson,73,33.374167,-87.213611,5597175
+2018,2902257,El Segundo,Surface,35,New Mexico,Mckinley,31,34.6,-108.65,5546491
+2018,4404856,Buchanan Mine #1,Underground,51,Virginia,Buchanan,27,37.161389,-81.986944,5188441
+2018,3610045,Harvey Mine,Underground,42,Pennsylvania,Greene,59,39.969444,-80.420833,4980569
+2018,4200089,Sufco,Underground,49,Utah,Sevier,41,38.913333,-111.416944,4904476
+2018,3301070,Century Mine,Underground,39,Ohio,Monroe,111,39.59,-81.010278,4785568
+2018,2400839,Decker Mine,Surface,30,Montana,Big Horn,3,45.037778,-106.831111,4760301
+2018,503672,West Elk Mine,Underground,8,Colorado,Gunnison,51,38.933056,-107.458056,4674833
+2018,4601968,Monongalia County Mine,Underground,42,Pennsylvania,Greene,59,39.756389,-80.356667,4404054
+2018,3200218,Center Mine,Surface,38,North Dakota,Oliver,65,47.064722,-101.212778,4256867
+2018,4800083,Wyodak Mine,Surface,56,Wyoming,Campbell,5,44.500723,-105.631272,4085044
+2018,1202394,Oaktown Fuels Mine No. 1,Underground,18,Indiana,Knox,83,38.856111,-87.425,4071835
+2018,4800086,Kemmerer Mine,Surface,56,Wyoming,Lincoln,23,41.48,-110.136944,4016923
+2018,1103147,Prairie Eagle-Underground,Underground,17,Illinois,Perry,145,38.071389,-89.585556,3944857
+2018,2400910,Absaloka Mine,Surface,30,Montana,Big Horn,3,45.72957,-107.590223,3827634
+2018,4201566,Skyline Mine #3,Underground,49,Utah,Carbon,7,39.677278,-111.233494,3602708
+2018,1517216,Cardinal,Underground,21,Kentucky,Hopkins,107,37.405278,-87.535278,3528289
+2018,4103101,South Hallsville No 1 Mine,Surface,48,Texas,Harrison,203,32.453044,-94.508873,3501845
+2018,4609192,Leer Mine,Underground,54,West Virginia,Taylor,91,39.331111,-79.958611,3444773
+2018,2900097,Navajo Mine,Surface,35,New Mexico,San Juan,45,36.525,-108.541944,3397537
+2018,1103235,Gateway North Mine,Underground,17,Illinois,Randolph,157,38.188889,-89.620278,3087530
+2018,503836,Foidel Creek Mine,Underground,8,Colorado,Routt,107,40.352777,-107.071944,3049511
+2018,4102840,San Miguel Lignite Mine,Surface,48,Texas,Atascosa,13,28.683333,-98.466666,2977099
+2018,2200690,Red Hills Mine,Surface,28,Kemper,Choctaw,19,33.795927,-89.201141,2939738
+2018,1202418,Oaktown Fuels Mine No. 2,Underground,18,Indiana,Knox,83,38.858611,-87.425,2866699
+2018,4104964,Liberty,Surface,48,Texas,Rusk,401,32.264199,-94.612716,2734143
+2018,102901,Shoal Creek Mine,Underground,1,Alabama,Walker,127,33.519444,-87.303889,2659074
+2018,4202241,Lila Canyon,Underground,49,Utah,Carbon,7,39.426111,-110.340556,2630631
+2018,1202441,Wild Boar Mine,Surface,18,Indiana,Warrick,173,38.178333,-87.279722,2559312
+2018,4801180,Black Butte And Leucite Hills,Surface,56,Wyoming,Sweetwater,37,41.618889,-108.666389,2499798
+2018,3201028,Coyote Creek Mine,Surface,38,North Dakota,Mercer,57,47.167275,-101.882798,2489357
+2018,1502132,Dotiki Mine,Underground,21,Kentucky,Webster,233,37.452653,-87.777525,2475504
+2018,4103659,Tatum Strip Mine,Surface,48,Texas,Panola,365,32.297778,-94.448333,2471147
+2018,4608984,Holden #22 Surface,Surface,54,West Virginia,Logan,45,37.702778,-82.072222,2467478
+2018,1519535,Genesis,Underground,21,Kentucky,Ohio,183,37.400278,-87.066667,2378909
+2018,4609028,Mountain View Mine,Underground,54,West Virginia,Tucker,93,39.187222,-79.381667,2280219
+2018,4801646,Bridger Underground Coal Mine,Underground,56,Wyoming,Sweetwater,37,41.818288,-108.820394,2210433
+2018,4103739,Eagle Pass Mine,Surface,48,Texas,Maverick,323,28.816111,-100.445833,2146219
+2018,502838,Trapper Mine,Surface,8,Colorado,Moffat,81,40.452222,-107.631111,2140461
+2018,101247,No 4 Mine,Underground,1,Alabama,Tuscaloosa,125,33.328611,-87.331389,2137810
+2018,1202295,Francisco Underground Pit,Underground,18,Indiana,Gibson,51,38.3375,-87.433889,2135200
+2018,503505,Deserado Mine,Underground,8,Colorado,Rio Blanco,103,40.169167,-108.726111,2073860
+2018,4103428,Calvert Mine,Surface,48,Texas,Robertson,395,31.098888,-96.668333,2030297
+2018,4800677,Jim Bridger Mine,Surface,56,Wyoming,Sweetwater,37,41.799722,-108.616389,1997883
+2018,1202258,Somerville Central Mine,Surface,18,Indiana,Gibson,51,38.264245,-87.366902,1973018
+2018,1100726,Shay #1 Mine,Underground,17,Illinois,Macoupin,117,39.205833,-89.862778,1947164
+2018,2902170,San Juan Mine 1,Underground,35,New Mexico,San Juan,45,36.85,-108.375,1848018
+2018,1102664,Viper Mine,Underground,17,Illinois,Sangamon,167,40.003611,-89.449722,1782322
+2018,4609029,Mountaineer Ii Mine,Underground,54,West Virginia,Logan,45,37.911944,-81.798611,1763202
+2018,4609054,Republic Energy,Surface,54,West Virginia,Fayette,19,37.976111,-81.346944,1542284
+2018,4407223,Deep Mine 41,Underground,51,Virginia,Dickenson,51,37.096111,-82.388333,1522940
+2018,4605437,American Eagle Mine,Underground,54,West Virginia,Kanawha,39,38.166234,-81.468756,1516885
+2018,100851,Oak Grove Mine,Underground,1,Alabama,Jefferson,73,33.442222,-87.138889,1497321
+2018,502962,Colowyo Mine,Surface,8,Colorado,Moffat,81,40.3,-107.783333,1470896
+2018,4609475,Workman Creek Surface,Surface,54,West Virginia,Raleigh,81,37.885911,-81.37713,1459166
+2018,1519744,Pride,Underground,21,Kentucky,Muhlenberg,177,37.291389,-87.051667,1451591
+2018,1202374,Shamrock Mine,Surface,18,Indiana,Dubois,37,38.465729,-87.039618,1386346
+2018,1202372,Antioch Mine,Surface,18,Indiana,Daviess,27,38.705277,-87.0875,1372359
+2018,1103156,Wildcat Hills Mine-Underground,Underground,17,Illinois,Saline,165,37.773889,-88.389167,1330804
+2018,1519515,Mine #4,Underground,21,Kentucky,Pike,195,37.545392,-82.413559,1321340
+2018,4607178,Samples Surface Mine,Surface,54,West Virginia,Kanawha,39,38.058889,-81.475,1305606
+2018,1601031,Dolet Hills Lignite Company,Surface,22,Louisiana,De Soto,31,31.96,-93.475,1275631
+2018,1519424,Riveredge Mine,Underground,21,Kentucky,Mclean,149,37.63468,-87.43913,1270993
+2018,4609062,Coal Mountain No 1 Surface,Surface,54,West Virginia,Wyoming,109,37.639624,-81.671234,1267728
+2018,1518966,East Mac & Nellie,Surface,21,Kentucky,Perry,193,37.399444,-83.164444,1258750
+2018,4609075,Twin Branch No 1,Surface,54,West Virginia,Mingo,59,37.804533,-82.161695,1181759
+2018,4604168,Sentinel Mine,Underground,54,West Virginia,Barbour,1,39.2,-80.049722,1169514
+2018,1517741,Paradise #9,Underground,21,Kentucky,Muhlenberg,177,37.299444,-87.209722,1128850
+2018,4609217,Powellton #1 Mine,Underground,54,West Virginia,Logan,45,37.792456,-81.66035,1108055
+2018,4607938,"Black Castle Mining Company, L",Surface,54,West Virginia,Boone,5,38.054167,-81.7,1107520
+2018,4609221,Slabcamp,Underground,54,West Virginia,Kanawha,39,38.275833,-81.374167,1070511
+2018,4608808,Ruby Energy,Underground,54,West Virginia,Mingo,59,37.744167,-82.203889,1054878
+2018,1103064,Friendsville Mine,Surface,17,Illinois,Wabash,185,38.417532,-87.843242,1038995
+2018,4605252,Beckley Pocahontas Mine,Underground,54,West Virginia,Raleigh,81,37.770852,-81.26257,1017800
+2018,4601816,Pinnacle Mine,Underground,54,West Virginia,Wyoming,109,37.546736,-81.492109,1016246
+2018,4609277,Alma No 1,Underground,54,West Virginia,Mingo,59,37.751389,-82.309722,1008110
+2018,1103212,Eagle River Coal Llc Mine No 1,Surface,17,Illinois,Saline,165,37.720999,-88.531101,968909
+2018,1202428,Liberty Mine,Surface,18,Indiana,Warrick,173,38.102546,-87.336997,961481
+2018,5000030,Usibelli,Surface,2,Alaska,Denali,68,63.856944,-148.966111,901641
+2018,3304526,Buckingham  Mine,Underground,39,Ohio,Perry,127,39.586667,-82.065,897418
+2018,4202335,Castle Valley Mine #4,Underground,49,Utah,Emery,15,39.408333,-111.093889,892271
+2018,1202215,Gibson Mine,Underground,18,Indiana,Gibson,51,38.386685,-87.693919,880563
+2018,4609377,Glancy Surface Mine,Surface,54,West Virginia,Wyoming,109,37.766957,-81.638661,864044
+2018,4608878,Affinity Mine,Underground,54,West Virginia,Raleigh,81,37.711111,-81.228056,862872
+2018,4609101,Toney Fork Surface Mine,Surface,54,West Virginia,Logan,45,37.812778,-81.724167,832621
+2018,4609319,Lower War Eagle,Underground,54,West Virginia,Wyoming,109,37.734444,-81.727222,825143
+2018,1201732,Craney Mine,Surface,18,Indiana,Daviess,27,38.648333,-87,816793
+2018,4608759,North Eagle Mine,Underground,54,West Virginia,Boone,5,38.154167,-81.559722,805504
+2018,4609297,Blue Creek No. 1 Ug Mine,Underground,54,West Virginia,Kanawha,39,38.352778,-81.459722,794495
+2018,4609026,Ewing Fork No. 1 Surface Mine,Surface,54,West Virginia,Raleigh,81,37.916389,-81.314167,780561
+2018,4608801,Aracoma Alma Mine #1,Underground,54,West Virginia,Logan,45,37.815556,-81.898056,778051
+2018,4609092,Allen Powellton Mine,Underground,54,West Virginia,Raleigh,81,37.897239,-81.307617,773755
+2018,4609258,Peerless Rachel Mine,Underground,54,West Virginia,Boone,5,38.126944,-81.578333,760893
+2018,4407163,88 Strip,Surface,51,Virginia,Dickenson,51,37.071798,-82.155933,708649
+2018,3609972,Crooked Creek Mine,Underground,42,Pennsylvania,Indiana,63,40.670815,-79.238448,704415
+2018,3609127,Madison Mine,Underground,42,Pennsylvania,Cambria,21,40.404167,-78.923056,701501
+2018,3609437,Brush Valley,Underground,42,Pennsylvania,Indiana,63,40.530556,-79.108611,693995
+2018,3609371,Mine 78,Underground,42,Pennsylvania,Somerset,111,40.28284,-78.775438,674161
+2018,4609345,Remining #3,Surface,54,West Virginia,Mingo,59,37.610161,-82.116988,632970
+2018,4608647,Eckman Surface Mine,Surface,54,West Virginia,Mcdowell,47,37.387222,-81.483056,626752
+2018,1518423,Right Fork Splint,Surface,21,Kentucky,Harlan,95,36.822778,-83.210278,626739
+2018,504864,King Ii,Underground,8,Colorado,La Plata,67,37.251111,-108.098055,615947
+2018,4609296,Blue Creek No. 2 Mine,Underground,54,West Virginia,Kanawha,39,38.352778,-81.459722,613294
+2018,3304577,Ccu Sexton Strip,Surface,39,Ohio,Harrison,67,40.235909,-80.999143,603599
+2018,4608663,Stonecoal Branch Mine No. 2,Underground,54,West Virginia,Logan,45,37.710556,-81.7525,603058
+2018,3304414,Ccu Harrison Strip,Surface,39,Ohio,Harrison,67,40.166005,-80.969586,569130
+2018,4201890,Dugout Canyon Mine,Underground,49,Utah,Carbon,7,39.6825,-110.543889,549863
+2018,4608787,Jerry Fork Eagle,Underground,54,West Virginia,Nicholas,67,38.298611,-80.990556,549688
+2018,4609361,Cedar Grove #2 Mine,Underground,54,West Virginia,Logan,45,37.816389,-81.895,549354
+2018,4609495,Eagle Seam Deep Mine,Underground,54,West Virginia,Logan,45,37.748333,-81.693889,539184
+2018,1519405,Orchard Branch Mine No. 89,Underground,21,Kentucky,Perry,193,37.171667,-83.111389,533473
+2018,4609070,Boone North No. 2 Surface Mine,Surface,54,West Virginia,Boone,5,38.161944,-81.696111,530580
+2018,4609204,Reylas Surface Mine,Surface,54,West Virginia,Logan,45,37.841389,-81.903333,529987
+2018,4601544,Road Fork #51 Mine,Underground,54,West Virginia,Wyoming,109,37.575556,-81.569167,515989
+2018,4407318,Hackney Creek Hagy,Underground,51,Virginia,Buchanan,27,37.366898,-82.193857,512325
+2018,4609395,Dry Branch Surface Mine,Surface,54,West Virginia,Mcdowell,47,37.356111,-81.43,498396
+2018,4609230,Winchester Ug Mine,Underground,54,West Virginia,Kanawha,39,38.058333,-81.464444,498287
+2018,4609091,Horse Creek Eagle,Underground,54,West Virginia,Raleigh,81,37.88867,-81.317357,497293
+2018,4202519,Coal Hollow Mine,Surface,49,Utah,Kane,25,37.406111,-112.454167,493532
+2018,3200043,Beulah Mine,Surface,38,North Dakota,Mercer,57,47.534444,-101.25,482680
+2018,4604236,Maple Eagle No. 1 Mine,Underground,54,West Virginia,Fayette,19,38.035833,-81.334167,481139
+2018,1502263,D-29 Darby Fork,Underground,21,Kentucky,Harlan,95,36.874722,-83.010833,469644
+2018,4609048,Slip Ridge Cedar Grove Mine,Underground,54,West Virginia,Raleigh,81,37.915272,-81.455873,462538
+2018,4407308,Deep Mine 44,Underground,51,Virginia,Dickenson,51,37.058889,-82.374167,462158
+2018,4609294,Washington Mine,Underground,54,West Virginia,Logan,45,37.761944,-81.776389,461204
+2018,4608930,Grapevine South Surface Mine,Surface,54,West Virginia,Mingo,59,37.565833,-82.090277,448887
+2018,1518775,Mine #15,Underground,21,Kentucky,Pike,195,37.553611,-82.413056,448569
+2018,3300965,Ccu Belmont Strip,Surface,39,Ohio,Belmont,13,40.008717,-81.193686,447370
+2018,1519015,E4-2,Underground,21,Kentucky,Perry,193,37.230556,-83.185278,443079
+2018,4200079,Emery Mine,Underground,49,Utah,Emery,15,38.873333,-111.234722,441876
+2018,1519820,Beetree 2,Surface,21,Kentucky,Magoffin,153,37.561111,-82.970278,431755
+2018,4609036,Seven Pines,Surface,54,West Virginia,Webster,101,38.491388,-80.595277,430263
+2018,1518950,Addcar Systems 03,Surface,18,Indiana,Warrick,173,38.091667,-87.300833,419232
+2018,4608838,Superior Surface Mine,Surface,54,West Virginia,Logan,45,37.728611,-81.977222,417878
+2018,4608932,Kingston No. 2,Underground,54,West Virginia,Fayette,19,37.965833,-81.31,417412
+2018,3300968,Hopedale Mine,Underground,39,Ohio,Harrison,67,40.347222,-80.919444,409560
+2018,1103017,Wildcat Hills Mine - Cottage G,Surface,17,Illinois,Gallatin,59,37.666666,-88.333333,407823
+2018,1202349,Carlisle Mine,Underground,18,Indiana,Sullivan,153,38.943611,-87.392778,404555
+2018,1503627,#20 Strip Job,Surface,21,Kentucky,Perry,193,37.325912,-83.297539,403735
+2018,4609261,Mine No. 39,Underground,54,West Virginia,Mcdowell,47,37.333494,-81.625475,401447
+2018,3301925,Orange Strip,Surface,39,Ohio,Noble,121,39.651864,-81.474285,400924
+2018,1509636,No. 77,Underground,21,Kentucky,Perry,193,37.02677,-83.119113,395645
+2018,1800780,Casselman Mine,Underground,24,Maryland,Garrett,23,39.667108,-79.201865,386556
+2018,3610150,Mast Mine,Surface,42,Pennsylvania,Somerset,111,39.755556,-79.060556,386353
+2018,3609893,Acosta Deep Mine,Underground,42,Pennsylvania,Somerset,111,40.103889,-79.049722,375379
+2018,4606618,Gateway Eagle Mine,Underground,54,West Virginia,Boone,5,37.793611,-81.591667,368390
+2018,1512753,Calvary No 81,Underground,21,Kentucky,Leslie,131,37.119167,-83.239444,367371
+2018,4609362,Coalburg Mine,Underground,54,West Virginia,Mingo,59,37.797222,-82.195833,359926
+2018,1519511,Lewis Creek,Surface,21,Kentucky,Ohio,183,37.351389,-86.993333,359453
+2018,4608656,Morgan Camp Mine,Underground,54,West Virginia,Randolph,83,38.768333,-80.225833,354422
+2018,103437,Black Warrior Mine No 1,Surface,1,Alabama,Jefferson,73,33.738333,-86.861944,352807
+2018,4608802,Hernshaw Mine,Underground,54,West Virginia,Logan,45,37.820278,-81.908889,352525
+2018,4407355,Surface Mine No. 1,Surface,51,Virginia,Buchanan,27,37.271389,-82.168056,347544
+2018,3609342,Barrett Mine,Underground,42,Pennsylvania,Indiana,63,40.559469,-78.889779,344055
+2018,3610041,North Fork,Underground,42,Pennsylvania,Somerset,111,40.127334,-79.061587,343147
+2018,1519702,Rockhampton #3,Underground,21,Kentucky,Bell,13,36.803611,-83.5775,334308
+2018,4609152,Black Oak Mine,Underground,54,West Virginia,Boone,5,37.812571,-81.565396,333792
+2018,1519757,Day Branch,Surface,21,Kentucky,Harlan,95,36.750556,-83.228056,330678
+2018,1519242,Redhawk #1,Underground,21,Kentucky,Floyd,71,37.523611,-82.733056,330553
+2018,4407199,Laurel Branch Surface,Surface,51,Virginia,Buchanan,27,37.405833,-82.054167,326608
+2018,1103248,Black Hawk,Surface,17,Illinois,Randolph,157,38.089444,-89.600555,316215
+2018,4609514,Muddy Bridge,Underground,54,West Virginia,Logan,45,37.743889,-81.771389,314203
+2018,4609246,Kuhn Ridge,Surface,54,West Virginia,Greenbrier,25,38.010833,-80.551111,309463
+2018,3609605,Res Morrisdale,Surface,42,Pennsylvania,Clearfield,33,40.942222,-78.192222,305667
+2018,1518769,S-17 Cumberland,Surface,21,Kentucky,Letcher,133,37.047222,-82.828889,302873
+2018,1519538,Job 5,Surface,21,Kentucky,Johnson,115,37.923611,-82.813889,301807
+2018,1103274,Golden Eagle Mine,Surface,17,Illinois,Perry,145,38.018611,-89.454722,301263
+2018,1518911,Mine #28,Underground,21,Kentucky,Pike,195,37.343611,-82.5425,299869
+2018,2400106,Savage Mine,Surface,30,Montana,Richland,83,47.416389,-104.375,294840
+2018,3609436,Kocjancic,Underground,42,Pennsylvania,Jefferson,65,41.273611,-78.763333,293010
+2018,1519189,Yellow Creek #21,Surface,21,Kentucky,Knott,119,37.258056,-83.004167,291169
+2018,3609973,Maple Springs Mine,Underground,42,Pennsylvania,Somerset,111,40.201667,-78.959167,289405
+2018,4606089,Minway No. 1,Surface,54,West Virginia,Mingo,59,37.820833,-82.315278,288955
+2018,1518869,Cvb No 1,Underground,21,Kentucky,Harlan,95,36.958056,-83.038611,279389
+2018,100627,Flat Top Mine,Surface,1,Alabama,Jefferson,73,33.696389,-87.203056,278489
+2018,4609528,Buffalo Deep Mine,Underground,54,West Virginia,Logan,45,37.791389,-81.823889,270837
+2018,1519718,Redhawk #6,Underground,21,Kentucky,Floyd,71,37.529781,-82.738852,270306
+2018,4407150,D-7 Osaka,Underground,51,Virginia,Wise,195,36.879167,-82.807222,267709
+2018,1519532,Access Energy,Underground,21,Kentucky,Letcher,133,37.245734,-82.780111,266340
+2018,1202460,Ace In The Hole,Surface,18,Indiana,Clay,21,39.275,-87.096944,265835
+2018,3601761,Tamaqua Mine,Surface,42,Pennsylvania,Schuylkill,107,40.804775,-75.977771,264303
+2018,3304645,Vail Mine,Underground,39,Ohio,Harrison,67,40.211505,-81.293736,262732
+2018,1519809,Shm-71,Surface,18,Indiana,Warrick,173,38.090278,-87.346667,261682
+2018,4609541,No. 2 Gas,Underground,54,West Virginia,Logan,45,37.706389,-81.756389,259144
+2018,2302262,Foster South,Surface,29,Bates,Bates,13,38.166666,-94.6,258902
+2018,1518376,D-2 Beechfork,Underground,21,Kentucky,Leslie,131,36.983056,-83.398333,257774
+2018,4003376,Addcar System 16,Surface,54,West Virginia,Logan,45,37.812778,-81.724167,257347
+2018,4606263,Wyoming No 2,Underground,54,West Virginia,Wyoming,109,37.6025,-81.609722,256422
+2018,4608315,Brushy Eagle,Underground,54,West Virginia,Raleigh,81,37.917033,-81.483097,256080
+2018,4609496,Mine No. 43,Underground,54,West Virginia,Mcdowell,47,37.395556,-81.473889,252707
+2018,1518198,D-11 Panther,Underground,21,Kentucky,Harlan,95,36.940278,-82.992778,252497
+2018,1519371,Shm-47,Surface,54,West Virginia,Logan,45,37.812778,-81.724167,251803
+2018,1519825,Stinnett,Surface,21,Kentucky,Leslie,131,37.078889,-83.410278,250383
+2018,1519827,Putney Darby Mine #1,Underground,21,Kentucky,Harlan,95,36.896944,-83.221944,249252
+2018,3609407,Heilwood,Underground,42,Pennsylvania,Indiana,63,40.615,-78.909167,244994
+2018,4407137,No. 2,Underground,51,Virginia,Wise,195,37.058889,-82.720556,243029
+2018,4609212,Panther Eagle Mine,Underground,54,West Virginia,Raleigh,81,37.925833,-81.487778,242535
+2018,4607165,North Surface Mine,Surface,54,West Virginia,Mingo,59,37.795,-82.154722,242017
+2018,4607537,Alloy Surface Mine,Surface,54,West Virginia,Fayette,19,38.159167,-81.25,236493
+2018,3610165,Solomon Run,Surface,42,Pennsylvania,Somerset,111,40.310278,-78.854444,232950
+2018,1518565,E4-1,Underground,21,Kentucky,Perry,193,37.221667,-83.153611,229537
+2018,4609172,Mountaineer Pocahontas No 1 Mi,Underground,54,West Virginia,Greenbrier,25,38.036594,-80.645712,227070
+2018,3608785,Parkwood Mine,Underground,42,Pennsylvania,Armstrong,5,40.661111,-79.328056,226968
+2018,3402168,Spur Mine,Surface,40,Oklahoma,Craig,35,36.689722,-95.412778,225858
+2018,3609654,Amerikohl Strips,Surface,42,Pennsylvania,Butler,19,40.557431,-79.28441,225459
+2018,4609427,Eagle #3 Mine,Underground,54,West Virginia,Wyoming,109,37.773611,-81.491389,222895
+2018,3609603,Res Shawville,Surface,42,Pennsylvania,Clearfield,33,41.089041,-78.260223,221041
+2018,103180,Sloan Mountain Mine,Surface,1,Alabama,Jefferson,73,33.758333,-86.904166,220827
+2018,103444,Little Spring Creek Mine,Surface,1,Alabama,Walker,127,33.947197,-87.255157,214863
+2018,4407087,D-6 North Fork,Underground,51,Virginia,Wise,195,36.968889,-82.8375,214477
+2018,1518977,Rob Fork Contour,Surface,21,Kentucky,Pike,195,37.345833,-82.536944,211481
+2018,3608135,Darmac No. 2 Mine,Underground,42,Pennsylvania,Armstrong,5,40.691111,-79.3075,208753
+2018,1601499,Five Forks Mine,Surface,22,Louisiana,Natchitoches,69,32.16396,-92.969177,207610
+2018,3609326,4 West Mine,Underground,42,Pennsylvania,Greene,59,39.756944,-80.011111,206723
+2018,3402080,P8 North,Underground,40,Oklahoma,Le Flore,79,35.222222,-94.546667,206183
+2018,1800133,Cabin Run,Surface,24,Maryland,Allegany,1,39.613611,-78.918333,205023
+2018,3601977,Wadesville P-33,Surface,42,Pennsylvania,Schuylkill,107,40.718056,-76.212222,203917
+2018,1800713,Job #3,Surface,24,Maryland,Allegany,1,39.542146,-79.04803,200811
+2018,1519768,Jennie Branch Mine,Underground,21,Kentucky,Bell,13,36.725278,-83.544722,199265
+2018,3608701,Dutch Run,Underground,42,Pennsylvania,Armstrong,5,40.69954,-79.286538,196877
+2018,1800769,Carlos Surface,Surface,24,Maryland,Allegany,1,39.618055,-78.962777,195985
+2018,100347,Choctaw Mine,Surface,1,Alabama,Walker,127,33.706666,-87.278611,195268
+2018,4605741,Low Gap Surface Mine,Surface,54,West Virginia,Mcdowell,47,37.273889,-81.495556,194939
+2018,4608884,No 58,Underground,54,West Virginia,Mcdowell,47,37.427222,-81.488333,193214
+2018,103419,Maxine-Pratt Mine,Underground,1,Alabama,Jefferson,73,33.602222,-87.140556,192294
+2018,4407313,Kilgore Creek Highwall Mine,Surface,51,Virginia,Russell,167,37.081944,-81.976667,191768
+2018,1518418,Joe's Run,Surface,21,Kentucky,Daviess,59,37.738333,-86.905556,191591
+2018,1517234,D-28 Huff Creek,Underground,21,Kentucky,Harlan,95,36.869444,-82.963889,190144
+2018,4608645,Twilight Mtr Surface Mine,Surface,54,West Virginia,Boone,5,37.905556,-81.585278,185910
+2018,4104864,Marshall Mine,Surface,48,Texas,Harrison,203,32.349722,-94.296944,185097
+2018,103172,"Searles Mine No. 2, 3, 4, 5, 6",Surface,1,Alabama,Tuscaloosa,125,33.329167,-87.339722,184971
+2018,1202407,West 61,Surface,18,Indiana,Warrick,173,38.158333,-87.289722,184096
+2018,103421,Slate Creek Mine,Surface,1,Alabama,Walker,127,33.796111,-87.372777,183824
+2018,4608625,Kingston No 1,Underground,54,West Virginia,Fayette,19,38.007222,-81.319722,183583
+2018,1518765,Springtown 1,Surface,21,Kentucky,Whitley,235,37.588889,-82.434444,182975
+2018,4607058,Sycamore Surface Mine,Surface,54,West Virginia,Fayette,19,38.069936,-81.340067,182625
+2018,1518040,No. 6,Surface,21,Kentucky,Pike,195,37.428333,-82.429444,182138
+2018,4608917,Eagle Creek #11,Surface,54,West Virginia,Logan,45,37.736111,-81.918333,180504
+2018,1519187,Shm-10,Surface,21,Kentucky,Whitley,235,36.710424,-83.919096,179801
+2018,4609545,Cam Highwall Miner,Surface,54,West Virginia,Mingo,59,37.602778,-82.102778,176596
+2018,3608860,Ellangowan Stripping,Surface,42,Pennsylvania,Schuylkill,107,40.814722,-76.176944,176394
+2018,3304336,Ccu Perry Strip,Surface,39,Ohio,Perry,127,39.730378,-82.157122,174731
+2018,4609442,Apollo Surface Mine,Surface,54,West Virginia,Mcdowell,47,37.36,-81.4,173819
+2018,4003441,Cooper Ridge Deep Mine,Underground,47,Tennessee,Claiborne,25,36.540556,-83.899444,173801
+2018,4608632,White Flame Surface Mine,Surface,54,West Virginia,Mingo,59,37.683889,-82.114167,172473
+2018,1103226,Hawkeye Mine,Surface,17,Illinois,Randolph,157,38.07415,-89.720629,172233
+2018,3602703,Fisher Mining Company,Surface,42,Pennsylvania,Lycoming,81,41.465476,-77.352489,171833
+2018,1519396,Persimmon #1,Surface,21,Kentucky,Pike,195,37.515,-82.048333,171732
+2018,3609477,Harmony Mine,Underground,42,Pennsylvania,Clearfield,33,40.779167,-78.711389,171039
+2018,4407381,Long Branch Surface Mine,Surface,51,Virginia,Dickenson,51,37.051389,-82.286111,170177
+2018,4407220,D-17,Underground,51,Virginia,Buchanan,27,37.238889,-81.783889,167534
+2018,4407366,Tilley,Underground,51,Virginia,Dickenson,51,37.315833,-82.255,165262
+2018,3304509,Tusky,Underground,39,Ohio,Tuscarawas,157,40.323889,-81.490556,162874
+2018,1518647,D-30 Clover Fork,Underground,21,Kentucky,Harlan,95,36.869722,-82.966111,162512
+2018,4609544,P610,Surface,54,West Virginia,Logan,45,37.848611,-81.781111,161180
+2018,1519796,Spruce Pine,Surface,21,Kentucky,Harlan,95,37.048889,-83.236389,159261
+2018,4609286,Mine No 6,Surface,54,West Virginia,Boone,5,38.160556,-81.7625,159134
+2018,4407384,Airport Mine 1,Surface,51,Virginia,Wise,195,36.986667,-82.517778,158457
+2018,3608398,Epb Strip,Surface,42,Pennsylvania,Cambria,21,40.675444,-78.671114,157593
+2018,3608550,Hazleton Shaft South,Surface,42,Pennsylvania,Luzerne,79,40.926388,-75.963888,156731
+2018,4609050,Barrackville Refuse Pile,Surface,54,West Virginia,Marion,49,39.517222,-80.179444,156474
+2018,1202425,Hilsmeyer Mine,Surface,18,Indiana,Dubois,37,38.269444,-87.068611,156361
+2018,4406084,No 27 Strip,Surface,51,Virginia,Wise,195,37.027222,-82.699167,156358
+2018,1519441,Aces Branch Mine #9,Surface,21,Kentucky,Leslie,131,37.151813,-83.348719,156328
+2018,4609219,Highwall Miner No.1,Surface,54,West Virginia,Logan,45,37.713333,-81.748333,153134
+2018,4609531,Pocahontas Hwm 52,Surface,54,West Virginia,Raleigh,81,37.603056,-81.2375,151035
+2018,4609105,Surface No 5,Surface,54,West Virginia,Fayette,19,38.035556,-81.224167,148342
+2018,4407365,Gobco #12,Surface,51,Virginia,Wise,195,36.974167,-82.432778,148330
+2018,103455,Weller Mine,Surface,1,Alabama,Jefferson,73,33,-87,146178
+2018,3609394,Knob Creek,Underground,42,Pennsylvania,Indiana,63,40.525278,-79.331667,145254
+2018,1519418,D-8 Cloverlick,Underground,21,Kentucky,Harlan,95,36.933889,-82.978333,145188
+2018,3301358,Sands Hill Strip,Surface,39,Ohio,Vinton,163,39.116389,-82.401667,144501
+2018,4407133,No. 26 Strip,Surface,51,Virginia,Wise,195,36.971021,-82.658175,141309
+2018,103285,Narley Mine,Surface,1,Alabama,Jefferson,73,33.724167,-86.910833,140673
+2018,4609239,No. 2 Contour & Auger,Surface,54,West Virginia,Wyoming,109,39.576999,-80.202603,140411
+2018,3609122,Laurel Sand And Stone Inc,Surface,42,Pennsylvania,Cambria,21,40.459444,-78.878611,139251
+2018,4609517,Dans Branch Surface Mine,Surface,54,West Virginia,Mcdowell,47,37.384444,-81.445,139099
+2018,3608489,West Spring Energy,Surface,42,Pennsylvania,Northumberland,97,40.764722,-76.449444,137544
+2018,4609153,Samples Mine Highwall Miner,Surface,54,West Virginia,Kanawha,39,37.815,-81.850833,135105
+2018,4607376,Lost Flat Surface Mine,Surface,54,West Virginia,Greenbrier,25,38.148932,-80.46774,134330
+2018,3608746,Quecreek #1 Mine,Underground,42,Pennsylvania,Somerset,111,40.089444,-79.083333,133747
+2018,3304642,Hwm 61,Surface,54,West Virginia,Greenbrier,25,36.763333,-83.641667,131051
+2018,4407327,Huffman Hwm,Surface,51,Virginia,Buchanan,27,37.312778,-82.232222,130313
+2018,1519161,S-28 Lewis Creek,Surface,21,Kentucky,Leslie,131,37.016009,-83.255466,130083
+2018,3609401,Primrose Operation,Surface,42,Pennsylvania,Schuylkill,107,40.828056,-76.115278,127200
+2018,1518946,Job #49,Surface,21,Kentucky,Pike,195,37.284442,-82.64817,127167
+2018,4605589,Crawdad No 1 Mine,Underground,54,West Virginia,Monongalia,61,39.706903,-80.000493,127036
+2018,103500,Murry Creek Surface Mine,Surface,1,Alabama,Shelby,117,33.209167,-86.926667,126565
+2018,4407322,Cabin Ridge Surface Mine,Surface,51,Virginia,Dickenson,51,37.039167,-82.230556,125446
+2018,4609415,Shm 06,Surface,54,West Virginia,Nicholas,67,38.149083,-80.4678,125101
+2018,4407288,Hill Creek Highwall,Surface,51,Virginia,Tazewell,185,37.139166,-81.833055,125062
+2018,1519778,Upper Second Creek Mine,Surface,21,Kentucky,Perry,193,37.227778,-83.145278,123098
+2018,1519325,Mine No. 7,Underground,21,Kentucky,Pike,195,37.431944,-82.273889,120772
+2018,3608262,Southern Division Strips,Surface,42,Pennsylvania,Westmoreland,129,40.422778,-79.117222,119888
+2018,4003398,Shm-75,Surface,54,West Virginia,Wyoming,109,37.769722,-81.640556,118225
+2018,3609923,Tasara Strips,Surface,42,Pennsylvania,Bedford,9,40.193055,-78.201666,118097
+2018,3601965,Buck Run P-8 P-10,Surface,42,Pennsylvania,Schuylkill,107,40.715,-76.304166,117939
+2018,1518257,#1 Strip Mine,Surface,21,Kentucky,Bell,13,36.731448,-83.597263,116743
+2018,4406499,D-18,Underground,51,Virginia,Buchanan,27,37.249698,-81.838765,115590
+2018,4609537,Ram Surface Mine No. 1,Surface,54,West Virginia,Logan,45,37.713333,-81.748333,114629
+2018,103381,Jesse Creek H.W.M.,Surface,1,Alabama,Bibb,7,33.178037,-86.853913,113221
+2018,4407367,No 10,Underground,51,Virginia,Wise,195,36.973889,-82.463056,111844
+2018,3401742,Cavanal West Mine,Surface,40,Oklahoma,Le Flore,79,35.085507,-94.774907,109147
+2018,1519802,Long Fork Surface No.12,Surface,21,Kentucky,Pike,195,37.469444,-82.271111,108923
+2018,4401486,Meridian #2,Underground,51,Virginia,Buchanan,27,37.252778,-81.836111,108112
+2018,103370,Cresent Valley Mine,Surface,1,Alabama,Walker,127,33.890555,-87.545555,107999
+2018,1518978,Shm-44,Surface,54,West Virginia,Wyoming,109,38.064444,-81.488333,106826
+2018,1202445,Addcar System 40 Hwm Ser # Lv2,Surface,17,Illinois,Saline,165,37.738333,-88.540556,106333
+2018,3304709,Hwm # 36,Surface,54,West Virginia,Greenbrier,25,38.026667,-80.679444,105465
+2018,1519824,Aldridge,Surface,21,Kentucky,Martin,159,37.718889,-82.510833,104875
+2018,103389,Carbon Hill Mine,Underground,1,Alabama,Walker,127,33.873056,-87.530833,104640
+2018,1519787,Mine # 1,Surface,21,Kentucky,Morgan,175,37.856111,-83.22,103558
+2018,4202263,Castle Valley Mine #3,Underground,49,Utah,Emery,15,39.408333,-111.093889,103345
+2018,1103241,Jordan,Surface,17,Illinois,Perry,145,37.993055,-89.567777,102833
+2018,1519808,Hyden Development East #1,Surface,21,Kentucky,Leslie,131,36.963056,-83.316944,102333
+2018,4606578,Red Fox Surface Mine,Surface,54,West Virginia,Mcdowell,47,37.227778,-81.550556,101174
+2018,3603561,Mcclure Strip,Surface,42,Pennsylvania,Jefferson,65,40.926038,-78.803695,100546
+2018,4407362,#1,Surface,51,Virginia,Wise,195,36.935833,-82.713333,100423
+2018,4406748,D-16,Underground,51,Virginia,Buchanan,27,37.276111,-81.853056,100320
+2018,4609207,Mine No 2,Underground,54,West Virginia,Mcdowell,47,37.334444,-81.688056,99206
+2018,4407385,Looney Creek,Surface,51,Virginia,Wise,195,36.914167,-82.811389,98914
+2018,1519726,No. 1,Underground,21,Kentucky,Floyd,71,37.448611,-82.651944,98787
+2018,1519684,Jarisa Inc. Mine No. 1,Underground,21,Kentucky,Pike,195,37.4375,-82.223611,98664
+2018,1518015,Bent Mountain Surface Mine #2,Surface,21,Kentucky,Pike,195,37.588889,-82.434444,97157
+2018,4609378,Mine No. 42,Underground,54,West Virginia,Mcdowell,47,37.400278,-81.448333,96994
+2018,1519116,#9a,Underground,21,Kentucky,Knott,119,37.2025,-82.972778,96889
+2018,4609513,Eagle Creek #10,Surface,54,West Virginia,Wyoming,109,37.782222,-81.465556,96448
+2018,1518361,D-21,Underground,21,Kentucky,Harlan,95,36.966389,-82.995833,96265
+2018,4407364,Ken Energy Corp - St Surface,Surface,51,Virginia,Dickenson,51,37.050278,-82.4675,96072
+2018,1515215,# 5,Underground,21,Kentucky,Pike,195,37.448333,-82.337222,93797
+2018,4104085,Three Oaks,Surface,48,Texas,Lee,287,30.416389,-97.216389,93632
+2018,3607928,Fieg Bros Coal Co.,Surface,42,Pennsylvania,Somerset,111,39.923795,-78.930282,93420
+2018,3609604,Res Houtzdale,Surface,42,Pennsylvania,Clearfield,33,40.794722,-78.332222,92548
+2018,4609198,Caretta #3 Mine,Underground,54,West Virginia,Mcdowell,47,37.323611,-81.68,91071
+2018,1519087,Mine #1a,Underground,21,Kentucky,Floyd,71,37.466389,-82.3625,90867
+2018,1518943,Mine No 5,Underground,21,Kentucky,Pike,195,37.31528,-82.299298,89825
+2018,1800391,No 1 Strip,Surface,24,Maryland,Allegany,1,39.584722,-78.969722,89099
+2018,3609881,"Coal Loaders, Inc.",Surface,42,Pennsylvania,Somerset,111,40.080556,-78.931389,88451
+2018,1518716,Hatfield Gap Surface Mine,Surface,21,Kentucky,Whitley,235,36.6285,-83.959346,86094
+2018,1519068,Liberty Management #8,Surface,21,Kentucky,Perry,193,37.341666,-83.170833,86005
+2018,4606265,Sewell Mine B,Underground,54,West Virginia,Mcdowell,47,37.506111,-81.623611,84556
+2018,4609448,Blue Knob Surface Mine,Surface,54,West Virginia,Greenbrier,25,38.121667,-80.4825,82229
+2018,1516883,Combs Branch Job,Surface,21,Kentucky,Perry,193,37.376667,-83.346667,82121
+2018,4609309,Hill Fork Mine,Surface,54,West Virginia,Boone,5,38.152222,-81.838333,81868
+2018,4609484,Newhall Surface Mine No. 2,Surface,54,West Virginia,Mcdowell,47,37.286272,-81.635763,81487
+2018,3609974,Cass #1 Mine,Underground,42,Pennsylvania,Somerset,111,39.853889,-79.074167,81445
+2018,4609533,Berwind Deep Mine,Underground,54,West Virginia,Mcdowell,47,37.213889,-81.666111,80923
+2018,1518713,No 009,Surface,51,Virginia,Buchanan,27,37.424167,-82.116111,80726
+2018,1519402,Wayland Surface,Surface,21,Kentucky,Floyd,71,37.445556,-82.800278,80456
+2018,1519280,No 4,Underground,21,Kentucky,Pike,195,37.306645,-82.316705,77997
+2018,1519450,Bmm Refuse No. 1,Surface,21,Kentucky,Pike,195,37.463889,-82.145,77210
+2018,1103045,Red Hawk,Surface,17,Illinois,Perry,145,37.958333,-89.3125,76625
+2018,4609093,Mine No. 7,Underground,54,West Virginia,Mcdowell,47,37.458889,-81.906944,75787
+2018,1519721,Job # 57,Surface,21,Kentucky,Pike,195,37.025745,-82.060366,74532
+2018,4609507,Edm No. 1 Mine,Underground,54,West Virginia,Mcdowell,47,37.480556,-81.581944,71580
+2018,103523,Shannon Mine No. 3,Surface,1,Alabama,Jefferson,73,33.385,-87.071944,71465
+2018,4609170,Four Mile Surface Mine No 2,Surface,54,West Virginia,Kanawha,39,38.109167,-81.400556,71118
+2018,3606753,"Coal Loaders, Inc.",Surface,42,Pennsylvania,Westmoreland,129,40.235149,-79.503574,70520
+2018,1518914,Highwall Miner #1,Surface,1,Alabama,Walker,127,37.227778,-83.145278,70115
+2018,1519076,Chestnut Flats,Surface,21,Kentucky,Bell,13,36.762778,-83.531667,70011
+2018,3608590,Continental Strip,Surface,42,Pennsylvania,Schuylkill,107,40.7925,-76.323611,69095
+2018,3402164,Bull Hill #2,Surface,40,Oklahoma,Latimer,77,34.076944,-95.927778,68779
+2018,1519094,Center Creek Mine,Underground,21,Kentucky,Pike,195,37.308672,-82.30774,68591
+2018,4607491,S-7 Surface Mine,Surface,54,West Virginia,Fayette,19,37.596667,-81.264444,66420
+2018,3608672,Marquise Strips,Surface,42,Pennsylvania,Somerset,111,40.149722,-78.884722,65791
+2018,1518793,#1,Underground,21,Kentucky,Knott,119,37.406111,-82.882777,65623
+2018,4407370,No. 29 Strip,Surface,51,Virginia,Wise,195,37.026944,-82.651111,65309
+2018,4609455,Sewell Mine R,Underground,54,West Virginia,Mcdowell,47,37.322338,-81.708854,64839
+2018,3304181,Ccu Stark Strip,Surface,39,Ohio,Stark,151,40.642685,-81.446582,64713
+2018,3609547,Brownsville,Surface,42,Pennsylvania,Schuylkill,107,40.811944,-76.240277,63811
+2018,3608541,Ben Hal Strips,Surface,42,Pennsylvania,Mercer,85,41.300421,-80.18144,63508
+2018,1519815,Three Point,Surface,21,Kentucky,Harlan,95,36.784722,-83.248333,63337
+2018,1519501,Mine No 11,Underground,21,Kentucky,Pike,195,37.3675,-82.297222,62468
+2018,4609311,Mine No. 1,Surface,54,West Virginia,Mercer,55,37.388611,-81.268889,60522
+2018,1800776,Walker Mine,Surface,24,Maryland,Allegany,1,39.629073,-79.975898,60237
+2018,3608163,Hoover Job,Surface,42,Pennsylvania,Clearfield,33,41.008333,-78.323333,59608
+2018,1518426,Mine #5,Underground,21,Kentucky,Knox,121,36.755833,-83.951667,58966
+2018,1518730,Chm-102,Surface,21,Kentucky,Whitley,235,37.71994,-82.833147,58851
+2018,1519657,North Knottsville Mine,Surface,21,Kentucky,Daviess,59,37.756111,-86.893889,58425
+2018,1519644,Highwall Miner #12,Surface,21,Kentucky,Whitley,235,37.80902,-82.726427,57862
+2018,3608896,Black Strip,Surface,42,Pennsylvania,Somerset,111,39.942396,-78.982872,57737
+2018,4609478,Windmillgap Surface Mine,Surface,54,West Virginia,Mcdowell,47,37.386667,-81.350556,57510
+2018,4406868,No 6,Underground,51,Virginia,Buchanan,27,37.316389,-82.235833,57216
+2018,1518819,Shm-35,Surface,54,West Virginia,Wyoming,109,37.736111,-81.865,55736
+2018,4609370,Miner #57,Surface,51,Virginia,Buchanan,27,37.945278,-82.599722,55614
+2018,4407285,No. 10,Surface,51,Virginia,Buchanan,27,37.423763,-82.113935,55514
+2018,4407041,Ahm Magoffin #1,Surface,21,Kentucky,Magoffin,153,37.541751,-82.739624,54793
+2018,3606562,Reichard Strips,Surface,42,Pennsylvania,Jefferson,65,41.120556,-79.204722,53787
+2018,4407052,D-10 Dorchester,Underground,51,Virginia,Wise,195,36.966167,-82.785468,53766
+2018,4609473,No. 1 Surface Mine,Surface,54,West Virginia,Greenbrier,25,38.026667,-80.679444,53281
+2018,1519419,Noble Mine #2,Surface,21,Kentucky,Perry,193,37.342063,-83.129215,52802
+2018,3608780,Logan Surface Mine,Surface,42,Pennsylvania,Columbia,37,40.803056,-76.376389,52351
+2018,4609182,Highwall Miner #1,Surface,51,Virginia,Tazewell,185,37.263056,-81.485,52266
+2018,1519784,No.7,Underground,21,Kentucky,Pike,195,37.375833,-82.2175,51795
+2018,1202416,Addcar Systems 20 Hwm Serial N,Surface,39,Ohio,Vinton,163,37.354444,-87.0975,51608
+2018,4407386,Surface Mine No. 2,Surface,51,Virginia,Wise,195,36.938333,-82.692778,51562
+2018,4608786,No 57 Mine,Underground,54,West Virginia,Mcdowell,47,37.464722,-81.48,51101
+2018,4407380,Gobco #14,Surface,51,Virginia,Wise,195,36.965,-82.425,49577
+2018,1519817,Little Round,Surface,21,Kentucky,Whitley,235,36.681667,-83.923889,49568
+2018,1800748,Taylor # 1,Underground,24,Maryland,Allegany,1,39.521389,-79.030556,49252
+2018,3602773,Shaw,Surface,42,Pennsylvania,Somerset,111,39.782167,-79.057633,48555
+2018,1518134,Ccu Halls Creek Mine,Surface,21,Kentucky,Muhlenberg,177,37.25038,-87.110967,48545
+2018,3604383,Lattimer Division,Surface,42,Pennsylvania,Luzerne,79,40.991667,-75.983056,48358
+2018,102996,Jap Creek Mine,Surface,1,Alabama,Walker,127,33.691786,-87.216853,48092
+2018,4608659,Mine No. 32,Underground,54,West Virginia,Mcdowell,47,37.328611,-81.6875,47832
+2018,1518466,Alden Resources Harps Creek,Underground,21,Kentucky,Whitley,235,36.706377,-83.903558,47634
+2018,3608501,Mountaineer #1,Surface,42,Pennsylvania,Somerset,111,40.190209,-79.047054,47151
+2018,4609151,Shm 46 Highwall Miner,Surface,54,West Virginia,Fayette,19,38.035556,-81.224167,46626
+2018,1519548,Surface #4,Surface,21,Kentucky,Johnson,115,37.922718,-82.885102,46296
+2018,1519736,M-107,Surface,21,Kentucky,Knox,121,37.050278,-82.467222,45969
+2018,3603328,Mine No 1,Surface,42,Pennsylvania,Somerset,111,39.971667,-78.982778,45592
+2018,4609538,Grassy #1 Surface,Surface,54,West Virginia,Nicholas,67,38.169722,-80.691944,45571
+2018,103496,Dutton Hill Mine No. 2,Surface,1,Alabama,Walker,127,33.803056,-87.352222,44804
+2018,3609178,Rausch Creek Coal Mining Branc,Surface,42,Pennsylvania,Schuylkill,107,40.678611,-76.328611,43101
+2018,4609490,Pollock Knob Surface Mine,Surface,54,West Virginia,Greenbrier,25,38.0475,-80.641667,42564
+2018,4609271,Mine No 3,Underground,54,West Virginia,Mcdowell,47,37.334722,-81.687778,42331
+2018,1800372,No 1 Strip,Surface,24,Maryland,Garrett,23,39.4,-79.175,41809
+2018,4003353,Shw-14,Surface,47,Tennessee,Claiborne,25,36.545556,-83.936667,41751
+2018,1519811,No. 2,Surface,21,Kentucky,Lawrence,127,37.973333,-82.714444,41633
+2018,1519260,D-5 Mine,Underground,21,Kentucky,Harlan,95,36.890833,-83.056111,41307
+2018,4407306,Omm,Underground,51,Virginia,Dickenson,51,37.106667,-82.395833,41228
+2018,1519823,White Oak,Surface,21,Kentucky,Martin,159,37.762222,-82.438889,40490
+2018,1519799,Fedscreek Surface,Surface,21,Kentucky,Pike,195,37.393611,-82.174167,39655
+2018,4407124,True Energy Fuels Mine No. 2,Surface,51,Virginia,Wise,195,37.099836,-82.618495,39425
+2018,1518982,Sturgeon Freeman Fork,Surface,21,Kentucky,Breathitt,25,37.345833,-83.534722,39236
+2018,1518988,Red Fox,Surface,21,Kentucky,Knott,119,37.031435,-82.091672,38227
+2018,3608750,"Bell Resources, Inc",Surface,42,Pennsylvania,Clearfield,33,40.999167,-78.683056,37916
+2018,1519814,Maple Creek Springtown,Surface,21,Kentucky,Whitley,235,36.820833,-84.054722,37327
+2018,4609018,No. 8,Underground,54,West Virginia,Mingo,59,37.644722,-81.957778,37293
+2018,1517979,Mine No. 8,Underground,21,Kentucky,Pike,195,37.444722,-82.252222,37212
+2018,4609532,Salem Auger #41,Surface,54,West Virginia,Boone,5,38.152222,-81.838333,37211
+2018,3609819,K & A Strips,Surface,42,Pennsylvania,Clarion,31,41.204759,-79.742103,37139
+2018,4608818,Callisto Mine,Surface,54,West Virginia,Boone,5,37.939722,-81.6875,36630
+2018,4407172,Virginia Point No. 1 Surface M,Surface,51,Virginia,Tazewell,185,37.248333,-81.497222,36583
+2018,4407217,No 10,Underground,51,Virginia,Dickenson,51,37.043889,-82.260833,36385
+2018,1517691,Mine #3,Underground,21,Kentucky,Knox,121,36.799865,-83.890946,35439
+2018,3607550,Swisher Contracting Inc.,Surface,42,Pennsylvania,Clearfield,33,41.041667,-78.398611,35326
+2018,4003274,Empire,Surface,54,West Virginia,Fayette,19,38.159167,-81.25,35169
+2018,1518001,Blackberry #1,Underground,21,Kentucky,Pike,195,37.534722,-82.224167,33626
+2018,4407268,Lower Mill,Underground,51,Virginia,Buchanan,27,37.314599,-82.070932,33356
+2018,3605828,Yenzi Strip #3 Mine,Surface,42,Pennsylvania,Jefferson,65,41.058333,-78.891667,33336
+2018,4609521,Puncheoncamp Surface Mine,Surface,54,West Virginia,Mcdowell,47,37.358333,-81.395,32921
+2018,3609666,Horning Deep Mine,Underground,42,Pennsylvania,Somerset,111,39.988611,-78.948056,32616
+2018,1518829,Cam Creek Mine,Surface,21,Kentucky,Lawrence,127,38.048889,-82.951389,32404
+2018,3610021,11,Surface,54,West Virginia,Monongalia,61,39.099722,-80.166389,31836
+2018,1519818,Imperial Hollow Mine,Surface,21,Kentucky,Whitley,235,36.852778,-84.111667,31610
+2018,3600884,"River Hill Coal Co., Inc.",Surface,42,Pennsylvania,Clearfield,33,41.111073,-78.169917,31194
+2018,1800529,Cobra No 1,Surface,24,Maryland,Allegany,1,39.526111,-79.005,31122
+2018,103432,Skelton Creek,Surface,1,Alabama,Jefferson,73,33.746667,-87.265278,30892
+2018,1519272,Lowsplint Surface,Surface,21,Kentucky,Bell,13,36.585278,-83.892222,30732
+2018,3608248,Shawver Operation,Surface,42,Pennsylvania,Clearfield,33,40.835063,-78.395746,30429
+2018,3601241,Rockton/Shaffer Mine,Surface,42,Pennsylvania,Clearfield,33,41.082222,-78.659167,30305
+2018,3610225,Spring Mountain Strip,Surface,42,Pennsylvania,Carbon,25,40.925,-75.973889,30182
+2018,1519834,Redhawk #7,Underground,21,Kentucky,Floyd,71,37.568889,-82.696944,29780
+2018,4607366,No 1,Underground,54,West Virginia,Mcdowell,47,37.409167,-81.545833,29355
+2018,4609480,Skyway Iii Mine,Surface,54,West Virginia,Mcdowell,47,37.408611,-81.555,29122
+2018,4407212,Hackney,Surface,51,Virginia,Buchanan,27,37.363056,-82.198889,28017
+2018,3607670,King #1,Surface,42,Pennsylvania,Clearfield,33,40.975,-78.175,27039
+2018,1518050,No. 2,Underground,21,Kentucky,Pike,195,37.534167,-82.222778,26649
+2018,3609558,Locust Summit Strip Mine,Surface,42,Pennsylvania,Northumberland,97,40.775278,-76.408333,26469
+2018,4609485,Atwell Branch Surface Mine,Surface,54,West Virginia,Mcdowell,47,37.360556,-81.751667,26091
+2018,3608745,Stockton Mine,Surface,42,Pennsylvania,Luzerne,79,40.963333,-75.925,25779
+2018,1519432,Four Mile,Surface,21,Kentucky,Bell,13,36.811825,-83.733825,25630
+2018,1519627,Flag Ridge Job,Surface,21,Kentucky,Knox,121,36.706536,-83.921825,25019
+2018,3609355,Penfield Mine,Underground,42,Pennsylvania,Clearfield,33,41.233889,-78.611389,24725
+2018,3609548,Trevorton Strip,Surface,42,Pennsylvania,Northumberland,97,40.765555,-76.680833,24648
+2018,3609304,Park Mine Coal Company,Surface,42,Pennsylvania,Schuylkill,107,40.832222,-76.123889,24248
+2018,1103247,Delta Carbon Project,Surface,17,Illinois,Saline,165,37.758889,-82.704167,24176
+2018,1518454,Auger Mine No 29,Surface,21,Kentucky,Perry,193,37.678056,-83.057222,23192
+2018,3609308,Cresson,Underground,42,Pennsylvania,Cambria,21,40.4425,-78.605556,22828
+2018,3609322,West End,Surface,42,Pennsylvania,Northumberland,97,40.781944,-76.608611,22688
+2018,4608921,Surface Mine No. 7,Surface,54,West Virginia,Boone,5,37.952956,-81.662261,22506
+2018,3607240,E O J Strip Mine,Surface,42,Pennsylvania,Schuylkill,107,40.708354,-76.111387,22302
+2018,4609052,Bam 7 Auger,Surface,54,West Virginia,Fayette,19,38.394097,-80.738368,21990
+2018,4406920,Hiram Fork,Underground,51,Virginia,Buchanan,27,37.349167,-82.002222,21928
+2018,1519722,No. 11 Allen Branch Job,Surface,21,Kentucky,Pike,195,37.449693,-82.143315,21762
+2018,3609840,Allegheny Strips,Surface,42,Pennsylvania,Armstrong,5,40.452778,-79.174444,21509
+2018,1518277,K-3,Underground,21,Kentucky,Harlan,95,36.911542,-83.090313,20725
+2018,103516,No Business Creek Mine,Surface,1,Alabama,Walker,127,33.849444,-87.766944,20665
+2018,3609888,Wilson Creek Surface Mines,Surface,42,Pennsylvania,Somerset,111,40.112142,-79.051182,20486
+2018,1516855,#2,Underground,21,Kentucky,Pike,195,37.566389,-82.526389,19409
+2018,3601818,R S & W Drift,Underground,42,Pennsylvania,Schuylkill,107,40.666944,-76.235833,19350
+2018,3609131,Sherpa Mining,Surface,42,Pennsylvania,Somerset,111,40.154606,-78.857396,19211
+2018,1519758,Addcar #2,Surface,54,West Virginia,Mcdowell,47,37.426667,-82.930833,18641
+2018,1519829,Razorblade Surface,Surface,21,Kentucky,Letcher,133,37.238889,-82.781111,18425
+2018,4609409,Shm 12-66,Surface,54,West Virginia,Raleigh,81,37.810347,-82.156553,18404
+2018,1518029,No 2,Surface,21,Kentucky,Pike,195,37.428333,-82.429444,17332
+2018,1518442,Auger Mine No 28,Surface,21,Kentucky,Magoffin,153,37.674013,-83.058884,16679
+2018,3607437,Rochester Mills Strip Mine,Surface,42,Pennsylvania,Indiana,63,40.766395,-79.010163,16426
+2018,3605518,Eagle Hill Strip,Surface,42,Pennsylvania,Schuylkill,107,40.697222,-76.143888,16407
+2018,103393,Buttahatchee Mine No 1,Surface,1,Alabama,Marion,93,34.123888,-87.650833,15618
+2018,3607730,Serill Strip,Surface,42,Pennsylvania,Schuylkill,107,40.704722,-76.282777,15578
+2018,4604670,Hobet Mine,Surface,54,West Virginia,Boone,5,38.113179,-81.855157,15545
+2018,1519689,No 24,Surface,21,Kentucky,Pike,195,37.4352,-82.437228,15253
+2018,3608422,Clearfield Co Strips,Surface,42,Pennsylvania,Clearfield,33,40.981944,-78.661111,15112
+2018,1519752,2a,Underground,21,Kentucky,Floyd,71,37.567778,-82.660556,15068
+2018,4602380,Bishop Impoundment Area,Surface,54,West Virginia,Mcdowell,47,37.229323,-81.550633,15000
+2018,3609383,3119,Surface,54,West Virginia,Monongalia,61,39.396828,-79.170804,14750
+2018,1518973,No. 2,Underground,21,Kentucky,Pike,195,37.514722,-82.211944,14675
+2018,3610185,Elk Resources Auger Crew 1,Surface,42,Pennsylvania,Somerset,111,40.114167,-78.844722,14276
+2018,3601734,Jeddo Basin (J-44),Surface,42,Pennsylvania,Luzerne,79,40.82419,-75.929086,13893
+2018,3609886,Solomon Run  Mine,Surface,42,Pennsylvania,Cambria,21,40.307222,-78.850833,13886
+2018,3608517,"Adc, Inc Pit 008",Surface,42,Pennsylvania,Westmoreland,129,40.234043,-79.754862,13813
+2018,4609519,Sewell Valley #2,Surface,54,West Virginia,Greenbrier,25,38.045833,-80.763056,13620
+2018,3609435,Williamstown Mine #1,Underground,42,Pennsylvania,Dauphin,43,40.594722,-76.586666,13216
+2018,3609287,Lowry Mine,Underground,42,Pennsylvania,Indiana,63,40.571667,-79.123333,12894
+2018,4402277,Rcr #1,Surface,51,Virginia,Russell,167,36.952778,-82.186111,12829
+2018,1519140,Auger No 1  Sn #11,Surface,21,Kentucky,Pike,195,37.113333,-82.958889,12817
+2018,3606586,Waroquier #1,Surface,42,Pennsylvania,Clearfield,33,40.975762,-78.475407,12777
+2018,3609843,Atlas Anthracite Coal Corporat,Surface,42,Pennsylvania,Northumberland,97,40.798333,-76.424444,12762
+2018,1518538,Auger Mine No. 34,Surface,21,Kentucky,Pike,195,37.672242,-83.059209,12743
+2018,3601877,K K Strip,Surface,42,Pennsylvania,Schuylkill,107,40.714166,-76.1675,12595
+2018,1519536,Joes Run Auger No. 26,Surface,21,Kentucky,Daviess,59,37.143056,-82.821389,12232
+2018,3609545,Mustang Stripping,Surface,42,Pennsylvania,Northumberland,97,40.815,-76.478333,11961
+2018,4609535,Springdale,Surface,54,West Virginia,Raleigh,81,37.916111,-81.316389,11928
+2018,4407260,Mine No. 4,Surface,51,Virginia,Dickenson,51,38.710833,-82.394444,11825
+2018,4003467,Valley Creek Mine #1,Surface,47,Tennessee,Claiborne,25,36.541944,-83.851667,11727
+2018,3608391,Glen Lyon Operation,Surface,42,Pennsylvania,Luzerne,79,41.157222,-76.081388,11167
+2018,103503,Lolley Mine No. 1,Underground,1,Alabama,Shelby,117,33.198056,-86.941389,11091
+2018,1800765,No. 1 Surface,Surface,24,Maryland,Garrett,23,39.495331,-79.06146,11051
+2018,1507010,Point Rock Mine,Surface,21,Kentucky,Pike,195,37.533056,-82.166389,10888
+2018,3604782,Worthville Mine,Surface,42,Pennsylvania,Jefferson,65,40.9378,-79.975424,10852
+2018,3608684,Hynoski Bros Shenandoah Strip,Surface,42,Pennsylvania,Schuylkill,107,40.816666,-76.233888,10851
+2018,1519609,Kentucky Energy Llc Job #2,Surface,21,Kentucky,Lawrence,127,38.029738,-82.970567,10283
+2018,3609203,3140,Surface,24,Maryland,Garrett,23,40.378528,-78.809616,10280
+2018,4609096,Pocahontas Highwall Mine,Surface,54,West Virginia,Raleigh,81,37.608056,-81.282778,10178
+2018,1519268,Mine #3,Surface,21,Kentucky,Bell,13,36.635833,-83.803333,9915
+2018,1517871,Oam#40,Surface,21,Kentucky,Whitley,235,36.787039,-84.054641,9851
+2018,3609651,Clearfield County Strips,Surface,42,Pennsylvania,Clearfield,33,41.036854,-78.724458,9778
+2018,1519760,Job #58,Surface,21,Kentucky,Pike,195,37.253472,-82.683734,9769
+2018,3302565,Dundas Job,Surface,39,Ohio,Vinton,163,39.148957,-82.431853,9764
+2018,1519313,Carnegie Mine,Underground,21,Kentucky,Pike,195,37.534167,-82.316389,9748
+2018,3609187,Auger No 3132,Surface,42,Pennsylvania,Cambria,21,40.40731,-78.810946,9557
+2018,3607636,Mid Port Strip,Surface,42,Pennsylvania,Schuylkill,107,40.738888,-76.124722,9527
+2018,4609340,Horse Creek No. 2,Underground,54,West Virginia,Mcdowell,47,37.4575,-81.855556,9518
+2018,3608841,Logansport Mine,Underground,42,Pennsylvania,Armstrong,5,40.733056,-79.5825,9496
+2018,3609183,Auger #1,Surface,42,Pennsylvania,Cambria,21,40.680056,-78.469344,9385
+2018,3609475,No 13 Slope,Underground,42,Pennsylvania,Northumberland,97,40.778333,-76.647222,9381
+2018,3610138,Hazleton Materials,Surface,42,Pennsylvania,Luzerne,79,40.995556,-75.838333,9266
+2018,3608679,No 5 Vein,Underground,42,Pennsylvania,Schuylkill,107,40.587222,-76.45,9208
+2018,1519604,Beaver Mine No. 1,Surface,21,Kentucky,Pike,195,37.344326,-82.317941,9196
+2018,3609963,Slope #2,Underground,42,Pennsylvania,Schuylkill,107,40.726857,-76.248119,9049
+2018,3609198,3166,Surface,51,Virginia,Wise,195,37.056944,-82.595556,9018
+2018,3609259,Lone Eagle West,Surface,42,Pennsylvania,Schuylkill,107,40.676111,-76.363611,8989
+2018,3608613,Silverton Stripping,Surface,42,Pennsylvania,Schuylkill,107,40.658888,-76.275555,8718
+2018,3607514,M S M Coal Company Inc,Surface,42,Pennsylvania,Jefferson,65,41.186111,-79.153333,8324
+2018,1800794,Taylor Highwall Mine,Surface,24,Maryland,Garrett,23,39.10578,-79.513224,8314
+2018,3608071,Enercorp Inc,Surface,42,Pennsylvania,Clearfield,33,40.993333,-78.198333,8084
+2018,3608494,Good Spring South,Surface,42,Pennsylvania,Schuylkill,107,40.599444,-76.996666,7949
+2018,3605208,Ancient Sun Strip Saylor-Mckin,Surface,42,Pennsylvania,Clarion,31,41.274639,-79.514137,7624
+2018,1519844,Toms Fork Mine,Underground,21,Kentucky,Bell,13,36.7625,-83.547222,7057
+2018,1518777,Hazard Job #6,Surface,21,Kentucky,Perry,193,37.295278,-83.195556,6865
+2018,4609546,Beech Mountain Mine,Underground,54,West Virginia,Randolph,83,38.683889,-80.128333,6744
+2018,1519839,Mine 109 - Auger 40,Surface,21,Kentucky,Martin,159,37.718889,-82.510833,6472
+2018,4609443,Stone Mine No. 1,Surface,54,West Virginia,Wayne,99,38.040428,-82.498237,6459
+2018,3609511,Selkirk 2,Surface,42,Pennsylvania,Schuylkill,107,40.661837,-76.277605,6351
+2018,4609520,Sewell Valley #1,Surface,54,West Virginia,Greenbrier,25,38.045833,-80.763056,6119
+2018,4608939,Guyan Mine,Surface,54,West Virginia,Logan,45,37.8125,-81.776389,6110
+2018,1519678,Jc-1,Surface,21,Kentucky,Johnson,115,37.81245,-82.720026,5827
+2018,1519776,Deep Mine No. 1,Underground,21,Kentucky,Pike,195,37.390278,-82.404444,5745
+2018,3608602,Waroquier #2,Surface,42,Pennsylvania,Jefferson,65,41.182778,-78.882222,5730
+2018,3609185,Auger 3152,Surface,42,Pennsylvania,Indiana,63,40.458333,-78.875,5730
+2018,3609632,No 1 Stripping,Surface,42,Pennsylvania,Northumberland,97,40.758333,-76.632778,5636
+2018,1519455,Highsplint Strip #2 Dixie 25,Surface,21,Kentucky,Harlan,95,36.8075,-83.295278,5585
+2018,1519774,Swan Pond,Surface,21,Kentucky,Knox,121,36.836389,-83.881111,5582
+2018,1513418,Dredge #1,Surface,21,Kentucky,Lawrence,127,38.184722,-82.607222,5564
+2018,1515851,Mine No 1,Surface,21,Kentucky,Johnson,115,37.916128,-82.966578,5357
+2018,1519002,Josie Mine #2,Surface,21,Kentucky,Whitley,235,36.802237,-84.103175,5318
+2018,3609348,Crystal Strip,Surface,42,Pennsylvania,Northumberland,97,40.766389,-76.677778,5147
+2018,1519798,S-29 Cave Branch,Surface,21,Kentucky,Harlan,95,36.967778,-82.981944,5125
+2018,1519735,Highwall Miner #2,Surface,1,Alabama,Walker,127,37.600833,-83.889167,5102
+2018,3602733,Kasubick #4,Surface,42,Pennsylvania,Clearfield,33,40.859491,-78.375075,5002
+2018,1800630,#1 Strip,Surface,24,Maryland,Garrett,23,39.586111,-79.008333,4992
+2018,103342,Reese's Branch Mine,Surface,1,Alabama,Walker,127,33.670833,-87.2725,4838
+2018,3610127,Big Mountain Anthracite #1 Pit,Surface,42,Pennsylvania,Northumberland,97,40.763889,-76.647222,4786
+2018,3602203,N & L Slope,Underground,42,Pennsylvania,Northumberland,97,40.768307,-76.650848,4753
+2018,4003318,Area #2,Surface,47,Tennessee,Campbell,13,36.572222,-84.167222,4751
+2018,3609943,Heidleberg,Surface,42,Pennsylvania,Luzerne,79,41.328056,-75.748056,4748
+2018,3608728,Carino No 1 Mine,Surface,42,Pennsylvania,Indiana,63,40.646356,-78.864769,4601
+2018,4609560,North Fork Surface Mine,Surface,54,West Virginia,Logan,45,37.802778,-81.653611,4526
+2018,4407154,No. 5,Underground,51,Virginia,Buchanan,27,37.296111,-82.201667,4440
+2018,1517982,No. 8,Underground,21,Kentucky,Pike,195,37.444444,-82.241389,4401
+2018,3610256,Mayo Operation,Surface,42,Pennsylvania,Jefferson,65,41.123889,-79.136111,4371
+2018,1518626,Mine # 1,Underground,21,Kentucky,Pike,195,37.424444,-82.235833,4363
+2018,3303336,Sands Hill Strip #2,Surface,39,Ohio,Jackson,79,39.115278,-82.435556,4298
+2018,3609956,3139,Surface,42,Pennsylvania,Somerset,111,40.131006,-78.863038,4210
+2018,3607443,Cherep #1,Surface,42,Pennsylvania,Allegheny,3,40.616746,-79.440666,4161
+2018,3610252,Day Mine,Surface,42,Pennsylvania,Indiana,63,39.980278,-79.806389,3988
+2018,3304179,Ccu Tuscarawas Strip,Surface,39,Ohio,Tuscarawas,157,40.400178,-81.556195,3981
+2018,3609468,Long Run,Underground,42,Pennsylvania,Armstrong,5,40.863889,-79.617222,3740
+2018,3609965,Horton Strips,Surface,42,Pennsylvania,Clearfield,33,40.870833,-78.258333,3647
+2018,1518644,A28,Surface,21,Kentucky,Whitley,235,37.114722,-83.096667,3630
+2018,1800777,Jackson,Surface,24,Maryland,Allegany,1,39.520067,-78.993598,3577
+2018,1518566,Auger #35 Job 198,Surface,21,Kentucky,Pike,195,37.225,-82.725,3560
+2018,3607880,Condor Mine,Surface,42,Pennsylvania,Indiana,63,40.589166,-79.346944,3538
+2018,4609330,Nichol Auger Mine,Surface,42,Pennsylvania,Indiana,63,40.489722,-79.697778,3510
+2018,3609305,Kellar #3  Sn #3153,Surface,42,Pennsylvania,Somerset,111,40.799722,-78.656944,3435
+2018,1519712,Cheyenne Enterprises 9e,Underground,21,Kentucky,Pike,195,37.499167,-82.568889,3425
+2018,4407326,Louis Lowe Surface Mine,Surface,51,Virginia,Russell,167,37.097722,-82.015211,3367
+2018,103320,Davis Creek Mine,Surface,1,Alabama,Tuscaloosa,125,33.420833,-87.37,3364
+2018,3609860,Buck Mountain Vein,Underground,42,Pennsylvania,Schuylkill,107,40.988333,-76.764167,3274
+2018,3608504,Pioneer #1,Surface,42,Pennsylvania,Clearfield,33,41.121219,-77.966237,3208
+2018,3608893,7 Ft Slope,Underground,42,Pennsylvania,Schuylkill,107,40.736388,-76.128611,3116
+2018,103522,Mccollum Mine,Surface,1,Alabama,Walker,127,33.785,-87.335,3072
+2018,1518952,Mine # 1,Surface,21,Kentucky,Pike,195,37.492131,-82.506444,2976
+2018,4407085,Oam#37,Surface,21,Kentucky,Whitley,235,36.778056,-83.891389,2887
+2018,3608273,Clinton Surface Mine,Surface,42,Pennsylvania,Lackawanna,69,41.621211,-75.484705,2825
+2018,4407388,Mine #24,Underground,51,Virginia,Wise,195,36.972222,-82.452778,2796
+2018,3609595,Coral-Graceton,Underground,42,Pennsylvania,Indiana,63,40.500364,-79.165797,2716
+2018,3608497,Somerset Co Surface,Surface,42,Pennsylvania,Somerset,111,39.943333,-79.1775,2618
+2018,3608376,Beth #2,Surface,42,Pennsylvania,Indiana,63,40.815833,-78.844444,2596
+2018,3609306,Kellar #2,Surface,42,Pennsylvania,Indiana,63,40.364123,-78.80947,2535
+2018,4406544,Ag4 Sawmill Hollow #2,Surface,51,Virginia,Wise,195,36.963744,-82.788837,2364
+2018,1519837,Mine #1,Underground,21,Kentucky,Floyd,71,37.512778,-82.717778,2305
+2018,4609505,Red Ash Mine No. 1,Surface,54,West Virginia,Mcdowell,47,37.443333,-81.786667,2145
+2018,4609471,Flying Eagle,Underground,54,West Virginia,Wyoming,109,37.756666,-81.554444,2120
+2018,3605493,Reese No 1 & 2 Strip,Surface,42,Pennsylvania,Clearfield,33,41.152389,-78.10249,2100
+2018,3609354,Finney Strips,Surface,42,Pennsylvania,Clearfield,33,40.831944,-78.358333,2064
+2018,3609444,Blackwood Operation,Surface,42,Pennsylvania,Schuylkill,107,40.63736,-76.384291,1715
+2018,4609530,Black Water Auger #1,Surface,54,West Virginia,Raleigh,81,38.045833,-80.763056,1667
+2018,3609059,Kuperavage Ent Inc/Ta Tuscaror,Surface,42,Pennsylvania,Schuylkill,107,40.746388,-76.080277,1456
+2018,3609501,Spring Mountain Operation,Surface,42,Pennsylvania,Luzerne,79,40.921111,-75.9725,1411
+2018,1519186,Oam #44,Surface,21,Kentucky,Bell,13,37.074444,-83.266388,1402
+2018,1519555,N.A.A.M. No. 21,Surface,21,Kentucky,Daviess,59,37.410258,-86.968477,1270
+2018,1519315,Yellow Mtn Surface Mine #1,Surface,21,Kentucky,Knott,119,37.426667,-82.930833,1170
+2018,3608034,Mountaintop Strip,Surface,42,Pennsylvania,Schuylkill,107,40.705555,-76.395,1152
+2018,3609150,Jett #2 Stripping,Surface,42,Pennsylvania,Schuylkill,107,40.74215,-76.078393,1105
+2018,1518890,Southeastern Auger No. 1,Surface,54,West Virginia,Mcdowell,47,37.248333,-81.497222,1020
+2018,3609885,Blue Ridge Mining,Surface,42,Pennsylvania,Northumberland,97,40.772777,-76.566388,1017
+2018,3609826,T & B Strip,Surface,42,Pennsylvania,Fayette,51,39.901284,-79.855138,945
+2018,4407129,Deep Mine 25,Underground,51,Virginia,Dickenson,51,37.135,-82.528889,910
+2018,1519762,Oam#19,Surface,21,Kentucky,Laurel,125,37.352111,-83.539596,800
+2018,3609679,Beard Job,Surface,42,Pennsylvania,Clearfield,33,41.030278,-78.702222,705
+2018,4407320,Middle Creek Refuge,Surface,51,Virginia,Tazewell,185,37.130833,-81.751111,629
+2018,1103131,Bcr Mine #1,Surface,17,Illinois,Perry,145,37.985178,-89.337088,567
+2018,3610164,Auger No. 47,Surface,54,West Virginia,Fayette,19,37.916389,-81.314167,555
+2018,3610253,Corbet South Mine,Surface,42,Pennsylvania,Clearfield,33,41.123333,-78.688889,482
+2018,4609540,Hominy #1 Surface Mine,Surface,54,West Virginia,Nicholas,67,38.173611,-80.722222,477
+2018,3604186,A W Long Coal Company,Surface,42,Pennsylvania,Clearfield,33,40.931944,-78.183056,472
+2018,3608822,Sioux Bank,Surface,42,Pennsylvania,Northumberland,97,40.801388,-76.433333,304
+2018,3610233,Broad Mountain Slope,Underground,42,Pennsylvania,Schuylkill,107,40.591944,-76.457222,286
+2018,3606393,Wymps Gap Surface Coal Mine,Surface,42,Pennsylvania,Fayette,51,39.140468,-79.758356,260
+2018,4407047,D-15,Underground,51,Virginia,Buchanan,27,37.190556,-82.151111,239
+2018,3608505,Waltersburg Mine,Surface,42,Pennsylvania,Fayette,51,39.994734,-79.800341,180
+2018,3401062,Joshua Coal Company,Surface,40,Oklahoma,Okmulgee,111,35.502666,-95.937248,80
+2018,3607758,Culm Co. #1,Surface,42,Pennsylvania,Schuylkill,107,40.712767,-76.114554,29
