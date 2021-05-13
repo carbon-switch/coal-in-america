@@ -58,8 +58,8 @@ async function drawMap() {
   // Create scales and functions to be used in dot mapping
 
   const generationScale = d3.scaleLinear() // scale the dot size based on max and min of dataset
-      .domain(d3.extent(dataToShow, plantGeneration))
-      .range([5,15])
+      .domain([1000000,25000000])
+      .range([1,25])
 
   function coordProjection (d) {   // create x, y coordinates for dot based on lat and long
     return "translate("

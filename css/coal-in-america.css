@@ -102,7 +102,7 @@ article {
 
 .first-step {
   min-height: 50vh;
-  margin-bottom: 50vh;
+  margin-bottom: 100vh;
 	margin-top: 25vh;
   background-color: #fff;
 	border: 1px solid #2F394B;
@@ -111,7 +111,7 @@ article {
 
 .following-step {
 	min-height: 50vh;
-	margin-bottom: 50vh;
+	margin-bottom: 100vh;
 	margin-top: 25vh;
 	background-color: #fff;
 	border: 1px solid #2F394B;
