@@ -8,15 +8,19 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<!-- My CSS -->
-	<link rel="stylesheet" type="text/css" href="dirty-power.css">
+	<link rel="stylesheet" type="text/css" href="../css/coal-in-america.css">
 
-	<!-- Google Fonts -->
-	<link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+	<!-- Test Fonts -->
+	<link rel='preload' type='font/woff2' as='font' crossorigin href='https://pudding.cool/assets/fonts/national/National2Web-Regular.woff2'>
+	<link rel='preload' type='font/woff2' as='font' crossorigin href='https://pudding.cool/assets/fonts/national/National2Web-Bold.woff2'>
+	<link rel='preload' type='font/woff2' as='font' crossorigin href='https://pudding.cool/assets/fonts/tiempos/TiemposTextWeb-Regular.woff2'>
+	<link rel='preload' type='font/woff2' as='font' crossorigin href='https://pudding.cool/assets/fonts/tiempos/TiemposTextWeb-Bold.woff2'>
 
 	<!-- JS -->
-	<script src="d3.js"></script>
-	<script type="module" src="dirty-power.js"></script>
-	<script src="enter-view.js"></script>
+	<script src="../js/d3.min.js"></script>
+	<script type="module" src="../js/triggers.js"></script>
+	<script src="../js/enter-view.js"></script>
+	<script src="../js/power-plant-map.js"></script>
 
 </head>
 
@@ -25,20 +29,32 @@
 		<section class="dummy-section"></section>
 
 		<section>
-			<div id="sticky-container">
 
-				<figure id="sticky-inner-container">
-					<div class="bar-outer"></div>
+			<div class="explanatory-text">
+				<h2>Introduction</h2>
+				<p>Retiring coal plants is an essential part of America's decarbonization strategy.
+				Plants currently emit about 1 billion tons per year. That's 21% of the country's total.</p>
+				<p>Cutting them to zero would deliver close to half of Biden's 50% goal. But to hit that target, coal retirements need to speed up. </p>
+			</div>
+
+
+
+			<div class="sticky-container">
+
+				<figure class="sticky-inner-container">
+					<div class="centered-flex">
+						<div id="map-wrapper"></div>
+					</div>
 				</figure>
 
 				<article>
-					<div id="step">
+					<div class="first-step">
 						<p> This is an example </p>
 					</div>
-					<div id="step">
+					<div class="following-step">
 						<p> This is an example </p>
 					</div>
-					<div id="step">
+					<div class="following-step">
 						<p> This is an example </p>
 					</div>
 				</article>
