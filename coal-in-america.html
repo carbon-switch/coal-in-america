@@ -16,11 +16,14 @@
 	<link rel='preload' type='font/woff2' as='font' crossorigin href='https://pudding.cool/assets/fonts/tiempos/TiemposTextWeb-Regular.woff2'>
 	<link rel='preload' type='font/woff2' as='font' crossorigin href='https://pudding.cool/assets/fonts/tiempos/TiemposTextWeb-Bold.woff2'>
 
-	<!-- JS -->
+	<!-- Utility functions and libraries -->
 	<script src="../js/d3.min.js"></script>
-	<script type="module" src="../js/triggers.js"></script>
 	<script src="../js/enter-view.js"></script>
-	<script src="../js/power-plant-map.js"></script>
+
+	<!-- JS -->
+	<script src="../js/top-25-plants.js"></script>
+	<script src="../js/animated-line.js"></script>
+	<script src="../js/built-capacity-by-fuel.js"></script>
 
 </head>
 
@@ -32,12 +35,65 @@
 
 			<div class="explanatory-text">
 				<h2>Introduction</h2>
-				<p>Retiring coal plants is an essential part of America's decarbonization strategy.
-				Plants currently emit about 1 billion tons per year. That's 21% of the country's total.</p>
-				<p>Cutting them to zero would deliver close to half of Biden's 50% goal. But to hit that target, coal retirements need to speed up. </p>
+				<p>Ever since coal emissions peaked in 2012 they've fallen quickly. But in 2020 coal plants still
+				emitted about 1 billion tons per year. That's 21% of the country's total.</p>
+				<p>And while the coal industry is certainly not going to roar back to life anytime soon,
+				emissions from coal power plants are expected to be as high as 400m tons in 2030.</p>
 			</div>
 
+			<div class="sticky-container">
 
+				<figure class="sticky-inner-container">
+					<div id="annual-emissions-wrapper"></div>
+				</figure>
+
+				<article>
+					<div class="first-step">
+						<p>Coal emissions began declining in America for two main reasons: </p>
+						<ol>
+							<li>The fracking boom in America that led to a fall in natural gas prices; </li>
+							<li> The dramatic fall in the price of renewable energy.</li>
+						</ol>
+						<p> Let's look at how those two changes affected coal emissions.</p>
+					</div>
+				<article>
+
+			</div>
+		</section>
+
+		<section>
+			<div class="explanatory-text">
+				<h2>When did we build power plants?</h2>
+				<p>In order to understand both the rise and fall of coal it's helpful to understand when we
+				built both coal and all other types of power plants (after all, power plants consume 93% of all coal in America)</p>
+				<p>Below is a chart showing the total added capacity of power plants by year and generation type.</p>
+			</div>
+
+			<div class="sticky-container">
+
+				<figure class="sticky-inner-container">
+					<div class="centered-flex">
+						<div id="stacked-bar-wrapper"></div>
+					</div>
+				</figure>
+
+				<article>
+					<div class="first-step">
+						<p> Of the 25 top emitting power plants, zero are scheduled to retire between now and 2030.</p>
+					</div>
+				</article>
+
+			</div>
+
+		</section>
+
+		<section>
+			<div class="explanatory-text">
+				<p>Today the 25 dirtiest plants emit 300 million tons of CO2, which is about 25% of our country's total</p>
+				<p>And while many coal plants are retiring across the country, the largest ones are stubbornly sticking around.</p>
+				<p> The map shows the 25 power plants in America that emit the most CO2. You can hover over any of them to
+						learn more about them or keep scrolling to read the rest of the story </p>
+			</div>
 
 			<div class="sticky-container">
 
@@ -49,10 +105,9 @@
 
 				<article>
 					<div class="first-step">
-						<p> This is an example </p>
-					</div>
-					<div class="following-step">
-						<p> This is an example </p>
+						<p> Of the 25 top emitting power plants, zero are scheduled to retire between now and 2030.</p>
+						<p> <span id="#orange-text-span">6 plants</span> are expected to retire between 2030 and 2042.<p>
+						<p> <span id="#red-text-span">19 plants</span> are expected operate indefinitely </p>
 					</div>
 					<div class="following-step">
 						<p> This is an example </p>

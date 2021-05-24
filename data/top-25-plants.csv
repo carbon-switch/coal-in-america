@@ -1,0 +1,28 @@
+﻿plant_name,utility_name,parent_co,retirement_status,retirement_date,unique_id,coal_mine_state,largest_coal_suppliers,state,utility_id,county_code,county_name,latitude,longitude,fuel_type,nameplate_capacity,generation_mwh,emissions_tons,emissions_per_mwh,annualMwh_per_mw_capacity,annual_emissions_per_mw_capacity,capacity_factor
+Labadie,Union Electric Co - (MO),Ameren Corporation,Planned,2042,6228,WY,"Arch Coal, Peabody Energy",MO,19436,71,Franklin,38.562244,-90.837686,COAL,2389.4,14121002,15508284.75,1.098242515,5909.852683,6490.451473,0.674640717
+Petersburg Generating Station,Indianapolis Power & Light Co,AES Corporation,Partial Closure Planned,,3962,,,IN,9273,125,Pike,38.5281,-87.2525,COAL,2154.8,8755390.999,9930061.125,1.134165353,4063.203545,4608.344684,0.463836021
+Gibson,"Duke Energy Indiana, LLC",Duke Energy,Planned,2038,3925,,,IN,15470,51,Gibson,38.372222,-87.765833,COAL,3339.5,12184147,12659573.25,1.039020068,3648.494385,3790.858886,0.416494793
+Jim Bridger,PacifiCorp,PacifiCorp,Planned,2037,11828,,,WY,14354,37,Sweetwater,41.7378,-108.7875,COAL,2441.9,11254989,12656779.75,1.124548389,4609.111348,5183.168742,0.526154263
+Sherburne County,Northern States Power Co - Minnesota,Xcel Energy,Planned,2030,5967,,,MN,13781,141,Sherburne,45.3808,-93.8931,COAL,2469.3,10752654,11505655.67,1.070029378,4354.535293,4659.48069,0.49709307
+Cardinal,Cardinal Operating Company,American Electric Power,Planned,2030,8925,,,OH,61412,81,Jefferson,40.2522,-80.6486,COAL,1880.4,9640233,10241901.33,1.062412218,5126.692725,5446.66099,0.585238896
+Limestone,NRG Texas Power LLC,NRG Energy,Planned,2030,10579,,,TX,54888,293,Limestone,31.4219,-96.2525,COAL,1849.8,8700389,9876585.5,1.135188955,4703.421451,5339.272083,0.536920257
+James H Miller Jr,Alabama Power Co,Southern Company,No Retirement Date,,200,WY,"Arch Coal, Peabody Energy",AL,195,73,Jefferson,33.6319,-87.0597,COAL,2822,18490948,20965151.5,1.133806201,6552.426648,7429.181963,0.74799391
+Monroe,DTE Electric Company,DTE Energy,No Retirement Date,,5364,WY,"Arch Coal, Peabody Energy",MI,5109,115,Monroe,41.8906,-83.3464,COAL,3293.1,15321784,16559356.75,1.080772105,4652.693207,5028.501032,0.531129362
+Colstrip,Talen Montana LLC,Multiple Owners,Partial Closure Planned,,6373,MT,Western Energy,MT,15298,87,Rosebud,45.8831,-106.614,COAL,2363.4,13407682,15617378.75,1.164808261,5673.048151,6608.013349,0.647608236
+Scherer,Georgia Power Co,Southern Company,Partial Closure Planned,,3013,WY,"Peabody Energy, Blackjewel",GA,7140,207,Monroe,33.0606,-83.8075,COAL,3564,12082963,15053635.25,1.245856273,3390.281425,4223.803381,0.387018428
+Gen J M Gavin,"Gavin Power, LLC",Lightstone Generation,No Retirement Date,,8977,WV,American Energy,OH,61135,53,Gallia,38.9347,-82.1158,COAL,2600,13894111,14258083.48,1.026196169,5343.888846,5483.87826,0.610032973
+Martin Lake,Luminant Generation Company LLC,Vistra Corp,No Retirement Date,,10611,WY,Peabody Energy,TX,55983,401,Rusk,32.2606,-94.5706,COAL,3179.6,12150030,13898034,1.143868287,3821.244811,4371.000755,0.436215161
+Prairie State Generating Station,Prairie State Generating Co LLC,Multiple Owners,No Retirement Date,,3795,IL,Prairie State Generating Company,IL,15330,163,St Clair,38.279167,-89.666944,COAL,1766,12053090,13859542.5,1.149874638,6825.079275,7847.985561,0.779118639
+W A Parish,NRG Texas Power LLC,NRG Energy,No Retirement Date,,10894,WY,"Arch Coal, Peabody Energy",TX,54888,157,Fort Bend,29.4828,-95.6311,COAL,4008.4,14328218,13611580.41,0.949984178,3574.547949,3395.763997,0.408053419
+Oak Grove,Luminant Generation Company LLC,Vistra Corp,No Retirement Date,,10658,TX,Vistra Corp,TX,55983,395,Robertson,31.1803,-96.4866,COAL,3397,12407412,13495543.5,1.087700118,3652.461584,3972.782897,0.416947669
+Harrison Power Station,Monongahela Power Co,First Energy Company,No Retirement Date,,11758,,,WV,12796,33,Harrison,39.384167,-80.3325,COAL,2052,12894205,12924492.75,1.002348943,6283.725634,6298.485746,0.717320278
+Bowen,Georgia Power Co,Southern Company,No Retirement Date,,2874,,,GA,7140,15,Bartow,34.1256,-84.9222,COAL,3540.4,10987087,12196339.13,1.110061213,3103.346232,3444.904283,0.354263269
+Laramie River,Basin Electric Power Coop,Basin Electric Power Cooperative,No Retirement Date,,11831,,,WY,1307,31,Platte,42.108889,-104.8825,COAL,1710,9032133,11638441.75,1.288559607,5281.949123,6806.106287,0.602962229
+Keystone,KeyCon Operating LLC,Arclight,No Retirement Date,,9609,,,PA,63047,5,Armstrong,40.6604,-79.3411,COAL,1883.2,11005292,11526240.5,1.047336182,5843.931606,6120.561013,0.66711548
+Conemaugh,KeyCon Operating LLC,NRG Energy,No Retirement Date,,9532,,,PA,63047,63,Indiana,40.3842,-79.0611,COAL,1963,11005565,11459270,1.041225053,5606.502802,5837.631177,0.640011735
+Sam Seymour,Lower Colorado River Authority,Lower Colorado River Authority,No Retirement Date,,10767,,,TX,11269,149,Fayette,29.9172,-96.7506,COAL,1690,9606490,11313838,1.177728598,5684.313609,6694.578698,0.648894248
+Ghent,Kentucky Utilities Co,PPL Corporation,No Retirement Date,,4251,,,KY,10171,41,Carroll,38.7497,-85.035,COAL,2225.9,10164161,10824157.5,1.064933692,4566.315198,4862.822903,0.521268858
+John E Amos,Appalachian Power Co,American Electric Power,No Retirement Date,,11760,,,WV,733,79,Putnam,38.4731,-81.8233,COAL,2932.6,9796207,10393185.63,1.060939773,3340.451136,3544.017469,0.381330038
+Cumberland,Tennessee Valley Authority,Tennessee Valley Authority,No Retirement Date,,10217,,,TN,18642,161,Stewart,36.3903,-87.6539,COAL,2600,9409261,10069562.63,1.070175716,3618.946538,3872.908704,0.413121751
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,

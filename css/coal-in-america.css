@@ -50,12 +50,18 @@ h2 {
   color: #2F394B;
 }
 
-p {
+p, li {
   font-family: 'Tiempos Text Web';
   font-size: 1.15rem;
   margin-top: 0.25rem;
   line-height: 1.6rem;
   color: #2F394B;
+}
+
+text, button {
+	font-family: 'Tiempos Text Web';
+	font-size: 0.85rem;
+	color: #2F394B;
 }
 
 article {
@@ -81,7 +87,7 @@ article {
 
 .centered-flex {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   margin: auto;
 }
 
@@ -104,6 +110,7 @@ article {
   min-height: 50vh;
   margin-bottom: 100vh;
 	margin-top: 25vh;
+	padding: 3rem;
   background-color: #fff;
 	border: 1px solid #2F394B;
 	border-radius: 2px;
@@ -113,23 +120,18 @@ article {
 	min-height: 50vh;
 	margin-bottom: 100vh;
 	margin-top: 25vh;
+	padding: 3rem;
 	background-color: #fff;
 	border: 1px solid #2F394B;
 	border-radius: 2px;
 }
 
-.first-step p {
-  font-size: 24px;
-  padding: 2rem;
-  text-align: center;
+#annual-emissions-wrapper {
 }
 
-.following-step p {
-  font-size: 24px;
-  padding: 2rem;
-  text-align: center;
+#orange-text-span p {
+	background-color: #fcbf49;
 }
-
 
 #map-wrapper {
 	position: absolute;
@@ -139,4 +141,8 @@ article {
 .theMap {
   fill: #E0E2E4;
   stroke: #F5F5F6;
+}
+
+#stacked-button {
+	margin-left: 100px;
 }
