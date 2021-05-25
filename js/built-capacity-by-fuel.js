@@ -1,7 +1,7 @@
 async function createBar () {
 
   // parse data from csv
-  const data = await d3.csv("../data/capacity-by-fuel.csv", d3.autoType)
+  const data = await d3.csv("data/capacity-by-fuel.csv", d3.autoType)
   const lessYears = data.slice(59)
 
   // chart dimensions

@@ -29,7 +29,7 @@ function colorChange (d) {
 
 async function sumIf () {
 
-  const data = await d3.csv("../data/power-plant-generators.csv", d3.autoType)
+  const data = await d3.csv("data/power-plant-generators.csv", d3.autoType)
   console.table(data)
 
 
