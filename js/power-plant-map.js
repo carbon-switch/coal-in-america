@@ -1,9 +1,9 @@
 async function drawMap() {
 
   // Access data
-  const plantDataset = await d3.csv("../data/power-plant-data.csv", d3.autoType)
-  const usMapJson = await d3.json("../data/us-map-geojson.json")
-  const mineDataset = await d3.csv("../data/biggest-coal-mines.csv", d3.autoType)
+  const plantDataset = await d3.csv("data/power-plant-data.csv", d3.autoType)
+  const usMapJson = await d3.json("data/us-map-geojson.json")
+  const mineDataset = await d3.csv("data/biggest-coal-mines.csv", d3.autoType)
 
   // plant accessors and filters
   const plantLat = d => d.latitude

@@ -1,6 +1,6 @@
 async function drawChartArea() {
 
-  const emissionsDataset = await d3.csv("../data/us-historical-coal-emissions.csv", d3.autoType)
+  const emissionsDataset = await d3.csv("data/us-historical-coal-emissions.csv", d3.autoType)
 
   const totalEmissions = d => d.emissions
   const dateParser = d3.timeParse("%Y")
